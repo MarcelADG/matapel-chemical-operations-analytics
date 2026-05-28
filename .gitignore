@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Local system files
+.DS_Store
+__MACOSX/
+~$*.xlsx
+
+# Local repository metadata
+.git/
+
+# Confidential raw SAP exports and private/local pipeline outputs
+data/raw/
+data/processed/
+outputs/private/
+
+# Legacy pre-split output folders; sample outputs belong in outputs/sample/
+outputs/charts/
+outputs/excel/
+outputs/tables/

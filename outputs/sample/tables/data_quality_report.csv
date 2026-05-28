@@ -1,0 +1,35 @@
+table_name,check_name,severity,status,records_checked,issue_count,issue_rate,details
+dim_product,duplicate_key_check,medium,PASS,40,0,0.0,"Duplicate rows on keys: company, item_code"
+fact_ap,duplicate_key_check,medium,PASS,79,0,0.0,"Duplicate rows on keys: company, inv_number, card_name"
+fact_ap,invalid_or_missing_date:inv_date,medium,PASS,79,0,0.0,Null dates after parsing in inv_date
+fact_ap,invalid_or_missing_date:inv_due_date,medium,PASS,79,0,0.0,Null dates after parsing in inv_due_date
+fact_ap,negative_values:doc_total,medium,PASS,79,0,0.0,Negative values in doc_total
+fact_ap,negative_values:outstanding,medium,PASS,79,0,0.0,Negative values in outstanding
+fact_ap,negative_values:paid_to_date,medium,PASS,79,0,0.0,Negative values in paid_to_date
+fact_ap,outstanding_reconciliation,medium,PASS,79,0,0.0,outstanding should approximately equal doc_total - paid_to_date
+fact_ar,duplicate_key_check,medium,PASS,179,0,0.0,"Duplicate rows on keys: company, inv_number, card_name"
+fact_ar,invalid_or_missing_date:inv_date,medium,PASS,179,0,0.0,Null dates after parsing in inv_date
+fact_ar,invalid_or_missing_date:inv_due_date,medium,PASS,179,0,0.0,Null dates after parsing in inv_due_date
+fact_ar,negative_values:doc_total,medium,PASS,179,0,0.0,Negative values in doc_total
+fact_ar,negative_values:outstanding,medium,PASS,179,0,0.0,Negative values in outstanding
+fact_ar,negative_values:paid_to_date,medium,PASS,179,0,0.0,Negative values in paid_to_date
+fact_ar,outstanding_reconciliation,medium,PASS,179,0,0.0,outstanding should approximately equal doc_total - paid_to_date
+fact_inventory,duplicate_key_check,medium,PASS,1440,0,0.0,"Duplicate rows on keys: company, movement_date, item_code, warehouse"
+fact_inventory,invalid_or_missing_date:movement_date,medium,PASS,1440,0,0.0,Null dates after parsing in movement_date
+fact_purchases,duplicate_key_check,medium,PASS,538,0,0.0,"Duplicate rows on keys: company, po_number, item_code, doc_date"
+fact_purchases,invalid_or_missing_date:actual_deliv_date,medium,PASS,538,0,0.0,Null dates after parsing in actual_deliv_date
+fact_purchases,invalid_or_missing_date:doc_date,medium,PASS,538,0,0.0,Null dates after parsing in doc_date
+fact_purchases,invalid_or_missing_date:expected_deliv_date,medium,PASS,538,0,0.0,Null dates after parsing in expected_deliv_date
+fact_purchases,negative_values:price_usd,medium,PASS,538,0,0.0,Negative values in price_usd
+fact_purchases,negative_values:quantity,medium,PASS,538,0,0.0,Negative values in quantity
+fact_sales,duplicate_key_check,medium,PASS,1211,0,0.0,"Duplicate rows on keys: company, inv_date, cust_name, item_code, quantity, total_idr"
+fact_sales,invalid_or_missing_date:inv_date,medium,PASS,1211,0,0.0,Null dates after parsing in inv_date
+fact_sales,negative_values:quantity,medium,PASS,1211,0,0.0,Negative values in quantity
+fact_sales,negative_values:total_idr,medium,PASS,1211,0,0.0,Negative values in total_idr
+fact_sales,negative_values:total_usd,medium,PASS,1211,0,0.0,Negative values in total_usd
+fact_sales,sales_total_idr_reconciliation,medium,PASS,1211,0,0.0,total_idr should approximately equal quantity * price_idr
+fact_sales,sales_total_usd_reconciliation,medium,PASS,1211,0,0.0,total_usd should approximately equal quantity * price_usd
+fact_ap,missing_values:payment_date_2,medium,WARN,79,79,1.0,79 missing values in payment_date_2
+fact_ar,missing_values:payment_date_2,medium,WARN,179,179,1.0,179 missing values in payment_date_2
+fact_inventory,negative_values:inventory_value_idr,medium,WARN,1440,89,0.06180555555555556,Negative values in inventory_value_idr
+fact_inventory,negative_values:on_hand_qty,medium,WARN,1440,89,0.06180555555555556,Negative values in on_hand_qty

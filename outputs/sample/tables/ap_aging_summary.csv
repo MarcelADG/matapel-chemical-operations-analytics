@@ -1,0 +1,10 @@
+company,aging_bucket,outstanding,overdue_amount,current_or_future_amount,document_count,counterparty_count,record_count,table
+Matapel Tradindo Sample,Current,216023195.46,0.0,216023195.46,4,3,4,AP
+Matapel Chemicals Sample,1-30,234450318.74,234450318.74,0.0,5,5,5,AP
+Matapel Tradindo Sample,1-30,377908976.52000004,377908976.52000004,0.0,5,5,5,AP
+Matapel Chemicals Sample,31-60,368427641.89,368427641.89,0.0,7,6,7,AP
+Matapel Tradindo Sample,31-60,842080216.08,842080216.08,0.0,13,9,13,AP
+Matapel Chemicals Sample,61-90,73516461.14,73516461.14,0.0,3,3,3,AP
+Matapel Tradindo Sample,61-90,369169434.65,369169434.65,0.0,9,7,9,AP
+Matapel Chemicals Sample,90+,877689370.9100001,877689370.9100001,0.0,18,11,18,AP
+Matapel Tradindo Sample,90+,1097992526.33,1097992526.33,0.0,15,8,15,AP

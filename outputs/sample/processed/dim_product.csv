@@ -1,0 +1,41 @@
+company,item_group,item_category,parent_code,parent_name,item_code,item_name,invntry_uom,avg_cost,product_family,product_line
+Matapel Chemicals Sample,Pigments,Colorants,PIG-001,Organic Pigments,PIG-001-01,Organic Pigments Grade 1,KG,77594.62,Colorants,Organic Pigments
+Matapel Chemicals Sample,Pigments,Colorants,PIG-001,Organic Pigments,PIG-001-02,Organic Pigments Grade 2,KG,51793.64,Colorants,Organic Pigments
+Matapel Chemicals Sample,Pigments,Colorants,PIG-001,Organic Pigments,PIG-001-03,Organic Pigments Grade 3,KG,84112.04,Colorants,Organic Pigments
+Matapel Chemicals Sample,Pigments,Colorants,PIG-001,Organic Pigments,PIG-001-04,Organic Pigments Grade 4,KG,71697.34,Colorants,Organic Pigments
+Matapel Chemicals Sample,Pigments,Colorants,PIG-002,Inorganic Pigments,PIG-002-01,Inorganic Pigments Grade 1,KG,25251.66,Colorants,Inorganic Pigments
+Matapel Chemicals Sample,Pigments,Colorants,PIG-002,Inorganic Pigments,PIG-002-02,Inorganic Pigments Grade 2,KG,93122.92,Colorants,Inorganic Pigments
+Matapel Chemicals Sample,Pigments,Colorants,PIG-002,Inorganic Pigments,PIG-002-03,Inorganic Pigments Grade 3,KG,76607.76,Colorants,Inorganic Pigments
+Matapel Chemicals Sample,Pigments,Colorants,PIG-002,Inorganic Pigments,PIG-002-04,Inorganic Pigments Grade 4,KG,78526.95,Colorants,Inorganic Pigments
+Matapel Chemicals Sample,Resins,Binders,RES-001,Industrial Resins,RES-001-01,Industrial Resins Grade 1,KG,27864.75,Binders,Industrial Resins
+Matapel Chemicals Sample,Resins,Binders,RES-001,Industrial Resins,RES-001-02,Industrial Resins Grade 2,KG,52679.72,Binders,Industrial Resins
+Matapel Chemicals Sample,Resins,Binders,RES-001,Industrial Resins,RES-001-03,Industrial Resins Grade 3,KG,46551.45,Binders,Industrial Resins
+Matapel Chemicals Sample,Resins,Binders,RES-001,Industrial Resins,RES-001-04,Industrial Resins Grade 4,KG,89360.9,Binders,Industrial Resins
+Matapel Chemicals Sample,Solvents,Solvents,SOL-001,Solvents,SOL-001-01,Solvents Grade 1,KG,67577.61,Solvents,Solvents
+Matapel Chemicals Sample,Solvents,Solvents,SOL-001,Solvents,SOL-001-02,Solvents Grade 2,KG,81352.64,Solvents,Solvents
+Matapel Chemicals Sample,Solvents,Solvents,SOL-001,Solvents,SOL-001-03,Solvents Grade 3,KG,52142.89,Solvents,Solvents
+Matapel Chemicals Sample,Solvents,Solvents,SOL-001,Solvents,SOL-001-04,Solvents Grade 4,KG,35497.38,Solvents,Solvents
+Matapel Chemicals Sample,Additives,Specialty Chemicals,ADD-001,Additives,ADD-001-01,Additives Grade 1,KG,60703.03,Specialty Chemicals,Additives
+Matapel Chemicals Sample,Additives,Specialty Chemicals,ADD-001,Additives,ADD-001-02,Additives Grade 2,KG,22913.93,Specialty Chemicals,Additives
+Matapel Chemicals Sample,Additives,Specialty Chemicals,ADD-001,Additives,ADD-001-03,Additives Grade 3,KG,81727.6,Specialty Chemicals,Additives
+Matapel Chemicals Sample,Additives,Specialty Chemicals,ADD-001,Additives,ADD-001-04,Additives Grade 4,KG,66638.16,Specialty Chemicals,Additives
+Matapel Tradindo Sample,Pigments,Colorants,PIG-001,Organic Pigments,PIG-001-01,Organic Pigments Grade 1,KG,76372.76,Colorants,Organic Pigments
+Matapel Tradindo Sample,Pigments,Colorants,PIG-001,Organic Pigments,PIG-001-02,Organic Pigments Grade 2,KG,45298.5,Colorants,Organic Pigments
+Matapel Tradindo Sample,Pigments,Colorants,PIG-001,Organic Pigments,PIG-001-03,Organic Pigments Grade 3,KG,92743.75,Colorants,Organic Pigments
+Matapel Tradindo Sample,Pigments,Colorants,PIG-001,Organic Pigments,PIG-001-04,Organic Pigments Grade 4,KG,86770.33,Colorants,Organic Pigments
+Matapel Tradindo Sample,Pigments,Colorants,PIG-002,Inorganic Pigments,PIG-002-01,Inorganic Pigments Grade 1,KG,77935.53,Colorants,Inorganic Pigments
+Matapel Tradindo Sample,Pigments,Colorants,PIG-002,Inorganic Pigments,PIG-002-02,Inorganic Pigments Grade 2,KG,32987.18,Colorants,Inorganic Pigments
+Matapel Tradindo Sample,Pigments,Colorants,PIG-002,Inorganic Pigments,PIG-002-03,Inorganic Pigments Grade 3,KG,53937.52,Colorants,Inorganic Pigments
+Matapel Tradindo Sample,Pigments,Colorants,PIG-002,Inorganic Pigments,PIG-002-04,Inorganic Pigments Grade 4,KG,21372.89,Colorants,Inorganic Pigments
+Matapel Tradindo Sample,Resins,Binders,RES-001,Industrial Resins,RES-001-01,Industrial Resins Grade 1,KG,29880.29,Binders,Industrial Resins
+Matapel Tradindo Sample,Resins,Binders,RES-001,Industrial Resins,RES-001-02,Industrial Resins Grade 2,KG,70594.77,Binders,Industrial Resins
+Matapel Tradindo Sample,Resins,Binders,RES-001,Industrial Resins,RES-001-03,Industrial Resins Grade 3,KG,75346.69,Binders,Industrial Resins
+Matapel Tradindo Sample,Resins,Binders,RES-001,Industrial Resins,RES-001-04,Industrial Resins Grade 4,KG,92498.25,Binders,Industrial Resins
+Matapel Tradindo Sample,Solvents,Solvents,SOL-001,Solvents,SOL-001-01,Solvents Grade 1,KG,43088.55,Solvents,Solvents
+Matapel Tradindo Sample,Solvents,Solvents,SOL-001,Solvents,SOL-001-02,Solvents Grade 2,KG,46525.4,Solvents,Solvents
+Matapel Tradindo Sample,Solvents,Solvents,SOL-001,Solvents,SOL-001-03,Solvents Grade 3,KG,54155.8,Solvents,Solvents
+Matapel Tradindo Sample,Solvents,Solvents,SOL-001,Solvents,SOL-001-04,Solvents Grade 4,KG,32589.29,Solvents,Solvents
+Matapel Tradindo Sample,Additives,Specialty Chemicals,ADD-001,Additives,ADD-001-01,Additives Grade 1,KG,28003.96,Specialty Chemicals,Additives
+Matapel Tradindo Sample,Additives,Specialty Chemicals,ADD-001,Additives,ADD-001-02,Additives Grade 2,KG,54629.28,Specialty Chemicals,Additives
+Matapel Tradindo Sample,Additives,Specialty Chemicals,ADD-001,Additives,ADD-001-03,Additives Grade 3,KG,35472.02,Specialty Chemicals,Additives
+Matapel Tradindo Sample,Additives,Specialty Chemicals,ADD-001,Additives,ADD-001-04,Additives Grade 4,KG,69575.68,Specialty Chemicals,Additives

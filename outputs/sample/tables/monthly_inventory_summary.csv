@@ -1,0 +1,873 @@
+company,month,product_family,product_line,warehouse,on_hand_qty,inventory_value_idr,avg_map_cost,item_count,negative_inventory_lines,zero_inventory_lines,negative_value_lines,is_high_value_inventory,is_slow_moving_indicator
+Matapel Chemicals Sample,2023-01-01,Specialty Chemicals,Additives,Jakarta WH,1075.09,25778486.5182,23977.98,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-01-01,Specialty Chemicals,Additives,Surabaya WH,12127.470000000001,853219973.892,69660.86666666665,3,0,0,0,True,False
+Matapel Chemicals Sample,2023-01-01,Binders,Industrial Resins,Bandung WH,4013.73,180943684.6014,45081.18,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-01-01,Binders,Industrial Resins,Jakarta WH,3840.45,358561502.0025,93364.45,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-01-01,Binders,Industrial Resins,Surabaya WH,8667.51,331825898.883,39807.735,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-01-01,Colorants,Inorganic Pigments,Bandung WH,8356.96,366943957.5267,53403.945,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-01-01,Colorants,Inorganic Pigments,Jakarta WH,1939.26,155469252.4662,80169.37,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-01-01,Colorants,Inorganic Pigments,Surabaya WH,5186.75,485561646.915,93615.78,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-01-01,Colorants,Organic Pigments,Bandung WH,433.37,31142197.8861,71860.53,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-01-01,Colorants,Organic Pigments,Jakarta WH,5405.78,455782394.34199995,84313.9,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-01-01,Colorants,Organic Pigments,Surabaya WH,4574.64,250330079.0664,65153.630000000005,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-01-01,Solvents,Solvents,Jakarta WH,6290.959999999999,440988133.7368999,60237.924999999996,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-01-01,Solvents,Solvents,Surabaya WH,6978.9,481178549.43500006,62971.545,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-02-01,Specialty Chemicals,Additives,Bandung WH,9835.74,711692803.4232001,57882.496666666666,3,0,0,0,True,False
+Matapel Chemicals Sample,2023-02-01,Specialty Chemicals,Additives,Jakarta WH,1336.86,79912557.7866,59776.31,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-02-01,Binders,Industrial Resins,Jakarta WH,14998.94,853335285.635,56930.97,3,0,0,0,True,False
+Matapel Chemicals Sample,2023-02-01,Binders,Industrial Resins,Surabaya WH,5582.8,266476255.62,47731.65,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-02-01,Colorants,Inorganic Pigments,Bandung WH,1607.77,126464310.2917,78658.21,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-02-01,Colorants,Inorganic Pigments,Jakarta WH,11111.56,477040663.1752,49932.479999999996,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-02-01,Colorants,Inorganic Pigments,Surabaya WH,4988.05,469757240.4665,94176.53,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-02-01,Colorants,Organic Pigments,Jakarta WH,524.89,38559530.531500004,74563.38,2,1,0,1,False,False
+Matapel Chemicals Sample,2023-02-01,Colorants,Organic Pigments,Surabaya WH,9408.83,669375445.4661,69542.33,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-02-01,Solvents,Solvents,Jakarta WH,10160.740000000002,779713281.9769,77240.45499999999,2,0,0,0,True,False
+Matapel Chemicals Sample,2023-02-01,Solvents,Solvents,Surabaya WH,1071.93,40170687.351,44587.485,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-03-01,Specialty Chemicals,Additives,Jakarta WH,6631.64,421351438.70869994,44623.225,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-03-01,Specialty Chemicals,Additives,Surabaya WH,4869.21,379962119.5243,73956.47499999999,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-03-01,Binders,Industrial Resins,Bandung WH,10509.62,715896690.1272001,68228.49,2,0,0,0,True,False
+Matapel Chemicals Sample,2023-03-01,Binders,Industrial Resins,Jakarta WH,4920.07,253273739.83689997,51477.67,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-03-01,Binders,Industrial Resins,Surabaya WH,4379.1,118051952.96400002,26958.04,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-03-01,Colorants,Inorganic Pigments,Bandung WH,11744.279999999999,998420318.3109,84312.34666666666,3,0,0,0,True,False
+Matapel Chemicals Sample,2023-03-01,Colorants,Inorganic Pigments,Jakarta WH,6385.59,155553994.0944,24360.16,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-03-01,Colorants,Organic Pigments,Bandung WH,9403.99,667500827.0992,71964.4975,4,1,0,1,False,False
+Matapel Chemicals Sample,2023-03-01,Solvents,Solvents,Bandung WH,1516.14,54377336.489800006,44486.565,2,1,0,1,False,False
+Matapel Chemicals Sample,2023-03-01,Solvents,Solvents,Surabaya WH,9562.380000000001,717062759.119,74817.54000000001,2,0,0,0,True,False
+Matapel Chemicals Sample,2023-04-01,Specialty Chemicals,Additives,Bandung WH,7510.08,520206043.51680005,69267.71,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-04-01,Specialty Chemicals,Additives,Jakarta WH,2767.42,226536490.30539998,81858.37,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-04-01,Specialty Chemicals,Additives,Surabaya WH,2725.7,112298435.1969,42372.005,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-04-01,Binders,Industrial Resins,Bandung WH,10716.25,760616952.8354,70768.58499999999,2,0,0,0,True,False
+Matapel Chemicals Sample,2023-04-01,Binders,Industrial Resins,Jakarta WH,4668.79,133776007.0675,28653.25,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-04-01,Binders,Industrial Resins,Surabaya WH,5904.9,326524849.62299997,55297.27,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-04-01,Colorants,Inorganic Pigments,Jakarta WH,16460.97,964530489.7574999,64871.72666666666,3,0,0,0,True,False
+Matapel Chemicals Sample,2023-04-01,Colorants,Inorganic Pigments,Surabaya WH,2195.06,165775540.826,75522.1,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-04-01,Colorants,Organic Pigments,Jakarta WH,6016.04,337906650.7926,66055.33499999999,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-04-01,Colorants,Organic Pigments,Surabaya WH,4974.52,416399118.1732001,79267.13,2,1,0,1,False,False
+Matapel Chemicals Sample,2023-04-01,Solvents,Solvents,Bandung WH,5926.66,461720069.1663999,67078.01999999999,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-04-01,Solvents,Solvents,Jakarta WH,280.43,10068561.524300002,35904.01,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-04-01,Solvents,Solvents,Surabaya WH,5978.4,401708006.23199993,67193.23,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-05-01,Specialty Chemicals,Additives,Bandung WH,9111.11,637372236.0696,74954.32,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-05-01,Specialty Chemicals,Additives,Surabaya WH,3145.82,96577675.12760001,40859.6,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-05-01,Binders,Industrial Resins,Jakarta WH,15783.46,708077883.4878,42415.89,3,0,0,0,True,False
+Matapel Chemicals Sample,2023-05-01,Binders,Industrial Resins,Surabaya WH,5620.17,511465144.4976,91005.28,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-05-01,Colorants,Inorganic Pigments,Bandung WH,2526.89,193807889.32909998,76698.19,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-05-01,Colorants,Inorganic Pigments,Surabaya WH,16640.02,1032537960.9007001,64903.86666666667,3,0,0,0,True,False
+Matapel Chemicals Sample,2023-05-01,Colorants,Organic Pigments,Bandung WH,1085.87,84376532.5102,73783.32500000001,2,1,0,1,False,False
+Matapel Chemicals Sample,2023-05-01,Colorants,Organic Pigments,Jakarta WH,10704.98,707421795.394,65485.66,2,0,0,0,True,False
+Matapel Chemicals Sample,2023-05-01,Solvents,Solvents,Jakarta WH,11497.74,834980040.6929,61321.556666666664,3,0,0,0,True,False
+Matapel Chemicals Sample,2023-05-01,Solvents,Solvents,Surabaya WH,707.07,37064072.0268,52419.24,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-06-01,Specialty Chemicals,Additives,Bandung WH,4267.06,185982278.5304,50798.34,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-06-01,Specialty Chemicals,Additives,Jakarta WH,7192.69,468244694.4152,65100.08,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-06-01,Specialty Chemicals,Additives,Surabaya WH,611.45,37240949.242,60905.96,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-06-01,Binders,Industrial Resins,Bandung WH,12941.18,738261508.9484999,55060.130000000005,3,0,0,0,True,False
+Matapel Chemicals Sample,2023-06-01,Binders,Industrial Resins,Surabaya WH,6165.12,316785936.7296,51383.58,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-06-01,Colorants,Inorganic Pigments,Bandung WH,7566.9,318909641.96889997,52369.365,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-06-01,Colorants,Inorganic Pigments,Jakarta WH,4095.04,322081775.66719997,78651.68,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-06-01,Colorants,Inorganic Pigments,Surabaya WH,6535.13,644803305.4925001,98667.25,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-06-01,Colorants,Organic Pigments,Bandung WH,6131.4400000000005,310598332.5074,66623.36333333333,3,1,0,1,False,False
+Matapel Chemicals Sample,2023-06-01,Colorants,Organic Pigments,Jakarta WH,7088.87,619999942.6248,87461.04,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-06-01,Solvents,Solvents,Bandung WH,4931.25,350857106.0625,71149.73,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-06-01,Solvents,Solvents,Jakarta WH,7637.96,585003440.0309999,60128.065,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-06-01,Solvents,Solvents,Surabaya WH,2154.5,110776784.61500001,51416.47,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-07-01,Specialty Chemicals,Additives,Bandung WH,4291.12,107828081.1162,42284.445,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-07-01,Specialty Chemicals,Additives,Jakarta WH,2997.1,249769922.11999997,83337.2,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-07-01,Specialty Chemicals,Additives,Surabaya WH,7938.31,558297770.0605,70329.55,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-07-01,Binders,Industrial Resins,Jakarta WH,19817.02,1064075896.3402,54316.582500000004,4,0,0,0,True,False
+Matapel Chemicals Sample,2023-07-01,Colorants,Inorganic Pigments,Bandung WH,7263.43,688552245.3216,94797.12,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-07-01,Colorants,Inorganic Pigments,Jakarta WH,4489.11,112918893.3756,25153.96,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-07-01,Colorants,Inorganic Pigments,Surabaya WH,6466.22,498696465.7391001,77388.775,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-07-01,Colorants,Organic Pigments,Jakarta WH,777.46,62242592.394,80058.9,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-07-01,Colorants,Organic Pigments,Surabaya WH,11704.17,787449828.8076999,68828.26,3,1,0,1,True,False
+Matapel Chemicals Sample,2023-07-01,Solvents,Solvents,Bandung WH,9263.1,574818926.4384,51787.52333333334,3,0,0,0,False,False
+Matapel Chemicals Sample,2023-07-01,Solvents,Solvents,Surabaya WH,8139.36,691892726.8943999,85005.79,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-08-01,Specialty Chemicals,Additives,Jakarta WH,9317.16,485736536.41719997,50121.743333333325,3,1,0,1,False,False
+Matapel Chemicals Sample,2023-08-01,Specialty Chemicals,Additives,Surabaya WH,2679.28,214655447.07520002,80116.84,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-08-01,Binders,Industrial Resins,Bandung WH,4956.59,444666345.5685,89712.15,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-08-01,Binders,Industrial Resins,Jakarta WH,10578.24,534334991.95439994,49940.465,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-08-01,Binders,Industrial Resins,Surabaya WH,5105.0,137774658.9,26988.18,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-08-01,Colorants,Inorganic Pigments,Bandung WH,8230.18,421798938.7131,49656.945,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-08-01,Colorants,Inorganic Pigments,Surabaya WH,9658.59,854490884.5294001,86911.88,2,0,0,0,True,False
+Matapel Chemicals Sample,2023-08-01,Colorants,Organic Pigments,Jakarta WH,8212.14,494890563.66099995,68149.54666666668,3,0,0,0,False,False
+Matapel Chemicals Sample,2023-08-01,Colorants,Organic Pigments,Surabaya WH,5505.91,468636080.241,85115.1,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-08-01,Solvents,Solvents,Bandung WH,12325.949999999999,953551815.0716,58226.61666666667,3,1,0,1,True,False
+Matapel Chemicals Sample,2023-08-01,Solvents,Solvents,Jakarta WH,5869.93,403202498.0357,68689.49,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-09-01,Specialty Chemicals,Additives,Bandung WH,7188.7300000000005,478057427.10840005,63438.61,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-09-01,Specialty Chemicals,Additives,Jakarta WH,3784.72,320070250.6104,84569.07,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-09-01,Specialty Chemicals,Additives,Surabaya WH,1734.06,40555536.33719999,23387.62,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-09-01,Binders,Industrial Resins,Bandung WH,10808.8,659379941.3053,59857.555,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-09-01,Binders,Industrial Resins,Jakarta WH,9881.05,490919092.4769,48492.11,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-09-01,Colorants,Inorganic Pigments,Bandung WH,7663.48,419801345.3964,53560.24,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-09-01,Colorants,Inorganic Pigments,Jakarta WH,5822.77,557878836.7399,95809.87,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-09-01,Colorants,Inorganic Pigments,Surabaya WH,5723.31,443626521.0813,77512.23,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-09-01,Colorants,Organic Pigments,Bandung WH,10046.4,603880829.6015999,66170.36,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-09-01,Colorants,Organic Pigments,Jakarta WH,550.47,39020043.931200005,70884.96,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-09-01,Colorants,Organic Pigments,Surabaya WH,4604.79,400357388.2272,86943.68,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-09-01,Solvents,Solvents,Bandung WH,5543.66,364446417.29919994,65741.12,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-09-01,Solvents,Solvents,Jakarta WH,-50.0,-1841733.0000000002,36834.66,1,1,0,1,False,False
+Matapel Chemicals Sample,2023-09-01,Solvents,Solvents,Surabaya WH,12744.41,944773610.7538999,65488.88,2,0,0,0,True,False
+Matapel Chemicals Sample,2023-10-01,Specialty Chemicals,Additives,Bandung WH,7166.35,486574403.6465,63064.03999999999,2,1,0,1,False,False
+Matapel Chemicals Sample,2023-10-01,Specialty Chemicals,Additives,Jakarta WH,2465.9,58785576.46000001,23839.4,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-10-01,Specialty Chemicals,Additives,Surabaya WH,3716.5,318972477.65999997,85826.04,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-10-01,Binders,Industrial Resins,Bandung WH,10033.21,504804870.9268,49759.795,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-10-01,Binders,Industrial Resins,Jakarta WH,10605.84,580246114.7595,58818.475000000006,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-10-01,Colorants,Inorganic Pigments,Jakarta WH,2993.85,237824887.4685,79437.81,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-10-01,Colorants,Inorganic Pigments,Surabaya WH,15272.26,1087471749.5425,66355.67333333334,3,0,0,0,True,False
+Matapel Chemicals Sample,2023-10-01,Colorants,Organic Pigments,Bandung WH,10451.31,654970514.1975,66668.94,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-10-01,Colorants,Organic Pigments,Jakarta WH,4872.88,395111850.27519995,76145.48999999999,2,1,0,1,False,False
+Matapel Chemicals Sample,2023-10-01,Solvents,Solvents,Bandung WH,10436.87,842648983.8178,60079.869999999995,2,0,0,0,True,False
+Matapel Chemicals Sample,2023-10-01,Solvents,Solvents,Jakarta WH,1354.85,71160705.259,52522.94,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-10-01,Solvents,Solvents,Surabaya WH,5751.0,396523168.56,68948.56,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-11-01,Specialty Chemicals,Additives,Bandung WH,2843.13,64072521.798300005,22535.91,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-11-01,Specialty Chemicals,Additives,Jakarta WH,7167.26,500725186.1178,66024.525,2,1,0,1,False,False
+Matapel Chemicals Sample,2023-11-01,Specialty Chemicals,Additives,Surabaya WH,4746.74,382750436.9212,80634.38,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-11-01,Binders,Industrial Resins,Bandung WH,7921.02,259266458.3598,37134.93,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-11-01,Binders,Industrial Resins,Surabaya WH,10279.960000000001,677464543.1935,70973.525,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-11-01,Colorants,Inorganic Pigments,Jakarta WH,15132.85,983046259.477,67734.86333333334,3,0,0,0,True,False
+Matapel Chemicals Sample,2023-11-01,Colorants,Inorganic Pigments,Surabaya WH,5464.62,439896390.7338,80498.99,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-11-01,Colorants,Organic Pigments,Bandung WH,3862.94,312440961.051,80881.65,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-11-01,Colorants,Organic Pigments,Jakarta WH,11454.54,696574931.033,66360.73,3,0,0,0,False,False
+Matapel Chemicals Sample,2023-11-01,Solvents,Solvents,Jakarta WH,17080.809999999998,1361425761.9654999,76785.275,2,0,0,0,True,False
+Matapel Chemicals Sample,2023-11-01,Solvents,Solvents,Surabaya WH,2116.9,105737592.1048,44556.759999999995,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-12-01,Specialty Chemicals,Additives,Bandung WH,5663.51,369878473.1866,63499.73,2,1,0,1,False,False
+Matapel Chemicals Sample,2023-12-01,Specialty Chemicals,Additives,Jakarta WH,7120.5599999999995,436920586.2924,54704.915,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-12-01,Binders,Industrial Resins,Bandung WH,6569.43,334118713.41660005,50859.62,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-12-01,Binders,Industrial Resins,Jakarta WH,3841.21,340671498.7939,88688.59,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-12-01,Binders,Industrial Resins,Surabaya WH,8037.35,258080277.2928,37657.69,2,0,0,0,False,False
+Matapel Chemicals Sample,2023-12-01,Colorants,Inorganic Pigments,Bandung WH,3353.16,272548734.4656,81281.16,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-12-01,Colorants,Inorganic Pigments,Jakarta WH,14501.45,945915106.3847,67237.40666666666,3,0,0,0,True,False
+Matapel Chemicals Sample,2023-12-01,Colorants,Organic Pigments,Bandung WH,11752.210000000001,713615255.5741,67987.23666666668,3,1,0,1,True,False
+Matapel Chemicals Sample,2023-12-01,Colorants,Organic Pigments,Surabaya WH,3651.18,306920271.9726,84060.57,1,0,0,0,False,False
+Matapel Chemicals Sample,2023-12-01,Solvents,Solvents,Jakarta WH,19759.739999999998,1438140369.7886,64869.17999999999,3,0,0,0,True,False
+Matapel Chemicals Sample,2023-12-01,Solvents,Solvents,Surabaya WH,562.43,19577063.439999998,34808.0,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-01-01,Specialty Chemicals,Additives,Bandung WH,4910.31,324953120.2932,66177.72,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-01-01,Specialty Chemicals,Additives,Jakarta WH,3410.49,271897461.39629996,79723.87,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-01-01,Specialty Chemicals,Additives,Surabaya WH,2611.39,60249922.46169999,43029.32,2,1,0,1,False,False
+Matapel Chemicals Sample,2024-01-01,Binders,Industrial Resins,Bandung WH,8872.11,286102859.78069997,37334.965,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-01-01,Binders,Industrial Resins,Jakarta WH,10176.89,678915532.8856001,72565.58,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-01-01,Colorants,Inorganic Pigments,Bandung WH,3761.4,370506927.36,98502.4,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-01-01,Colorants,Inorganic Pigments,Jakarta WH,4545.93,116872587.2304,25709.28,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-01-01,Colorants,Inorganic Pigments,Surabaya WH,7782.110000000001,608993650.6384001,78483.265,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-01-01,Colorants,Organic Pigments,Bandung WH,15770.650000000001,1035203902.4916,70798.86,3,0,0,0,True,False
+Matapel Chemicals Sample,2024-01-01,Colorants,Organic Pigments,Jakarta WH,-50.0,-3523367.5000000005,70467.35,1,1,0,1,False,False
+Matapel Chemicals Sample,2024-01-01,Solvents,Solvents,Bandung WH,1612.63,81532637.64400001,50558.8,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-01-01,Solvents,Solvents,Jakarta WH,5861.82,402149859.28080004,53184.16500000001,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-01-01,Solvents,Solvents,Surabaya WH,12750.67,1028281734.8577,80645.31,1,0,0,0,True,False
+Matapel Chemicals Sample,2024-02-01,Specialty Chemicals,Additives,Jakarta WH,4004.37,345848947.63560003,86367.88,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-02-01,Specialty Chemicals,Additives,Surabaya WH,7484.459999999999,370330376.6046,49339.90666666667,3,1,0,1,False,False
+Matapel Chemicals Sample,2024-02-01,Binders,Industrial Resins,Jakarta WH,20059.33,1043983427.1856999,53568.2925,4,0,0,0,True,False
+Matapel Chemicals Sample,2024-02-01,Colorants,Inorganic Pigments,Jakarta WH,11221.810000000001,615167044.8193,52482.455,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-02-01,Colorants,Inorganic Pigments,Surabaya WH,7769.56,654348667.4294,83969.76,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-02-01,Colorants,Organic Pigments,Jakarta WH,7989.96,421982386.6368,52814.08,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-02-01,Colorants,Organic Pigments,Surabaya WH,7197.85,593295863.0891001,79294.45333333332,3,1,0,1,False,False
+Matapel Chemicals Sample,2024-02-01,Solvents,Solvents,Bandung WH,12820.25,1031047324.635,80423.34,1,0,0,0,True,False
+Matapel Chemicals Sample,2024-02-01,Solvents,Solvents,Jakarta WH,-50.0,-1786745.0,35734.9,1,1,0,1,False,False
+Matapel Chemicals Sample,2024-02-01,Solvents,Solvents,Surabaya WH,7099.81,449911297.60600007,60660.520000000004,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-03-01,Specialty Chemicals,Additives,Bandung WH,-50.0,-3113441.5,62268.83,1,1,0,1,False,False
+Matapel Chemicals Sample,2024-03-01,Specialty Chemicals,Additives,Jakarta WH,3272.26,73315737.9198,22405.23,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-03-01,Specialty Chemicals,Additives,Surabaya WH,8021.4400000000005,601055507.4012,76357.185,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-03-01,Binders,Industrial Resins,Bandung WH,3219.52,152254932.0288,47291.19,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-03-01,Binders,Industrial Resins,Jakarta WH,10286.560000000001,693070411.8214,74879.025,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-03-01,Binders,Industrial Resins,Surabaya WH,5587.89,156412808.2671,27991.39,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-03-01,Colorants,Inorganic Pigments,Bandung WH,11413.07,878437321.3034,76960.19,2,0,0,0,True,False
+Matapel Chemicals Sample,2024-03-01,Colorants,Inorganic Pigments,Surabaya WH,9058.099999999999,536451455.6223,61281.305,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-03-01,Colorants,Organic Pigments,Bandung WH,5970.93,487731061.3067,82010.38500000001,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-03-01,Colorants,Organic Pigments,Jakarta WH,-50.0,-3789512.9999999995,75790.26,1,1,0,1,False,False
+Matapel Chemicals Sample,2024-03-01,Colorants,Organic Pigments,Surabaya WH,8160.26,425137713.623,52098.55,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-03-01,Solvents,Solvents,Jakarta WH,14097.19,1098321011.0345001,59645.83500000001,2,0,0,0,True,False
+Matapel Chemicals Sample,2024-03-01,Solvents,Solvents,Surabaya WH,8081.870000000001,534160011.5867,61896.175,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-04-01,Specialty Chemicals,Additives,Bandung WH,4692.4,310299074.12399995,66128.01,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-04-01,Specialty Chemicals,Additives,Surabaya WH,4839.290000000001,256035085.9674,55259.53666666666,3,0,0,0,False,False
+Matapel Chemicals Sample,2024-04-01,Binders,Industrial Resins,Bandung WH,7461.289999999999,341761970.7998,58462.0,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-04-01,Binders,Industrial Resins,Jakarta WH,2620.38,120871080.5778,46127.31,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-04-01,Binders,Industrial Resins,Surabaya WH,6893.13,356114329.6173,51662.21,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-04-01,Colorants,Inorganic Pigments,Bandung WH,4306.59,355013057.5956,82434.84,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-04-01,Colorants,Inorganic Pigments,Jakarta WH,12089.67,696687671.1318,51687.475000000006,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-04-01,Colorants,Inorganic Pigments,Surabaya WH,4313.61,395903470.88879997,91780.08,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-04-01,Colorants,Organic Pigments,Bandung WH,707.92,50781961.59679999,71734.04,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-04-01,Colorants,Organic Pigments,Jakarta WH,9639.59,555320081.5706,67003.24,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-04-01,Colorants,Organic Pigments,Surabaya WH,4272.04,334392136.7432,78274.58,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-04-01,Solvents,Solvents,Bandung WH,15029.380000000001,1173753344.5605,69205.985,2,0,0,0,True,False
+Matapel Chemicals Sample,2024-04-01,Solvents,Solvents,Jakarta WH,1304.95,45018269.49600001,34498.08,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-04-01,Solvents,Solvents,Surabaya WH,5808.8,387420529.96,66695.45,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-05-01,Specialty Chemicals,Additives,Bandung WH,5231.12,358643128.5736,68559.53,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-05-01,Specialty Chemicals,Additives,Surabaya WH,5842.43,294234076.02199996,57021.026666666665,3,0,0,0,False,False
+Matapel Chemicals Sample,2024-05-01,Binders,Industrial Resins,Bandung WH,13054.05,565321259.6295,42051.35,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-05-01,Binders,Industrial Resins,Jakarta WH,4050.8900000000003,268158391.96130002,69213.725,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-05-01,Colorants,Inorganic Pigments,Jakarta WH,7584.77,577839558.7863001,76184.19,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-05-01,Colorants,Inorganic Pigments,Surabaya WH,12195.64,747783081.1935999,65140.67999999999,3,0,0,0,True,False
+Matapel Chemicals Sample,2024-05-01,Colorants,Organic Pigments,Bandung WH,11803.150000000001,735054277.335,64972.395,2,0,0,0,True,False
+Matapel Chemicals Sample,2024-05-01,Colorants,Organic Pigments,Jakarta WH,271.63,19831437.386299998,73009.01,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-05-01,Colorants,Organic Pigments,Surabaya WH,1713.62,141687688.0012,82683.26,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-05-01,Solvents,Solvents,Jakarta WH,10714.71,587651059.925,51062.526666666665,3,0,0,0,False,False
+Matapel Chemicals Sample,2024-05-01,Solvents,Solvents,Surabaya WH,12681.9,1011543346.0439999,79762.76,1,0,0,0,True,False
+Matapel Chemicals Sample,2024-06-01,Specialty Chemicals,Additives,Bandung WH,3271.16,74404954.8584,22745.74,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-06-01,Specialty Chemicals,Additives,Jakarta WH,5476.4800000000005,353083809.0952,62721.76,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-06-01,Specialty Chemicals,Additives,Surabaya WH,2116.76,168558276.16320002,79630.32,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-06-01,Binders,Industrial Resins,Bandung WH,12903.93,538045131.7215,40602.56,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-06-01,Binders,Industrial Resins,Jakarta WH,2233.56,199924570.7928,89509.38,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-06-01,Binders,Industrial Resins,Surabaya WH,2784.5,131598421.57,47261.06,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-06-01,Colorants,Inorganic Pigments,Bandung WH,5121.95,390947892.283,76327.94,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-06-01,Colorants,Inorganic Pigments,Jakarta WH,3179.72,292507339.5688,91991.54,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-06-01,Colorants,Inorganic Pigments,Surabaya WH,11831.849999999999,654947479.0351001,51290.565,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-06-01,Colorants,Organic Pigments,Bandung WH,5213.31,393872295.6699,75551.29,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-06-01,Colorants,Organic Pigments,Jakarta WH,5849.46,311059157.695,64084.9,2,1,0,1,False,False
+Matapel Chemicals Sample,2024-06-01,Colorants,Organic Pigments,Surabaya WH,1944.89,157944205.7176,81209.84,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-06-01,Solvents,Solvents,Bandung WH,2280.93,117072313.31009999,51326.57,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-06-01,Solvents,Solvents,Jakarta WH,15842.21,1223817001.4324,58960.74,2,0,0,0,True,False
+Matapel Chemicals Sample,2024-06-01,Solvents,Solvents,Surabaya WH,5598.54,396282744.4842,70783.23,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-07-01,Specialty Chemicals,Additives,Jakarta WH,6031.13,304703950.52110004,50940.28999999999,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-07-01,Specialty Chemicals,Additives,Surabaya WH,6409.5199999999995,416816760.0484,64295.72,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-07-01,Binders,Industrial Resins,Bandung WH,7082.34,381961078.06320006,53931.48,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-07-01,Binders,Industrial Resins,Jakarta WH,9079.26,313649259.09080005,37956.53,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-07-01,Binders,Industrial Resins,Surabaya WH,2090.35,181958299.2835,87046.81,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-07-01,Colorants,Inorganic Pigments,Bandung WH,1872.97,174504914.57520002,93170.16,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-07-01,Colorants,Inorganic Pigments,Jakarta WH,10475.71,511629693.0541,50544.64,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-07-01,Colorants,Inorganic Pigments,Surabaya WH,6933.05,555971540.414,80191.48,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-07-01,Colorants,Organic Pigments,Bandung WH,265.14,19319685.9372,72865.98,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-07-01,Colorants,Organic Pigments,Jakarta WH,4888.81,371210276.5860001,75930.6,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-07-01,Colorants,Organic Pigments,Surabaya WH,6699.2,419628575.5555999,70736.38,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-07-01,Solvents,Solvents,Bandung WH,2773.39,146804768.0887,52933.33,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-07-01,Solvents,Solvents,Jakarta WH,9106.44,535125099.2925001,52954.675,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-07-01,Solvents,Solvents,Surabaya WH,14816.91,1223640584.4545999,82584.06,1,0,0,0,True,False
+Matapel Chemicals Sample,2024-08-01,Specialty Chemicals,Additives,Jakarta WH,8645.7,470343611.6766,55260.549999999996,3,0,0,0,False,False
+Matapel Chemicals Sample,2024-08-01,Specialty Chemicals,Additives,Surabaya WH,5764.97,380539731.7809,66008.97,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-08-01,Binders,Industrial Resins,Bandung WH,7393.5599999999995,309646558.9764,57388.635,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-08-01,Binders,Industrial Resins,Jakarta WH,6777.59,353381848.2025,52139.75,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-08-01,Binders,Industrial Resins,Surabaya WH,3274.92,147597205.734,45068.95,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-08-01,Colorants,Inorganic Pigments,Bandung WH,8492.3,363274700.088,61666.600000000006,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-08-01,Colorants,Inorganic Pigments,Jakarta WH,7241.8,572664598.1880001,79077.66,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-08-01,Colorants,Inorganic Pigments,Surabaya WH,5702.98,433556108.73539996,76022.73,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-08-01,Colorants,Organic Pigments,Bandung WH,6686.78,428254572.36829996,71009.525,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-08-01,Colorants,Organic Pigments,Jakarta WH,5181.49,424506832.86439997,81927.56,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-08-01,Colorants,Organic Pigments,Surabaya WH,-50.0,-3561430.5,71228.61,1,1,0,1,False,False
+Matapel Chemicals Sample,2024-08-01,Solvents,Solvents,Jakarta WH,2416.67,88815135.83680001,36751.04,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-08-01,Solvents,Solvents,Surabaya WH,23445.899999999998,1809047707.055,67714.87333333334,3,0,0,0,True,False
+Matapel Chemicals Sample,2024-09-01,Specialty Chemicals,Additives,Bandung WH,5902.42,408001122.99960005,69124.38,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-09-01,Specialty Chemicals,Additives,Jakarta WH,7148.780000000001,400645034.4166,53803.424999999996,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-09-01,Specialty Chemicals,Additives,Surabaya WH,2103.29,125078092.16070001,59467.83,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-09-01,Binders,Industrial Resins,Bandung WH,8741.71,526440983.87240005,70815.565,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-09-01,Binders,Industrial Resins,Jakarta WH,3648.56,173727789.7664,47615.44,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-09-01,Binders,Industrial Resins,Surabaya WH,5812.7,171686755.423,29536.49,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-09-01,Colorants,Inorganic Pigments,Bandung WH,8009.91,645703595.7219,80613.09,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-09-01,Colorants,Inorganic Pigments,Jakarta WH,6426.08,161009804.1344,25055.68,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-09-01,Colorants,Inorganic Pigments,Surabaya WH,8371.01,703386444.229,88598.16500000001,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-09-01,Colorants,Organic Pigments,Bandung WH,9298.6,589699066.3596001,63075.149999999994,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-09-01,Colorants,Organic Pigments,Jakarta WH,1814.41,157608597.6413,86864.93,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-09-01,Colorants,Organic Pigments,Surabaya WH,49.01,3644618.3578999997,74364.79,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-09-01,Solvents,Solvents,Bandung WH,1812.71,64053340.492800005,35335.68,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-09-01,Solvents,Solvents,Jakarta WH,9027.14,593429081.0165,62613.604999999996,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-09-01,Solvents,Solvents,Surabaya WH,16394.13,1323442866.6819003,80726.63,1,0,0,0,True,False
+Matapel Chemicals Sample,2024-10-01,Specialty Chemicals,Additives,Bandung WH,6416.53,322210269.13839996,51778.68,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-10-01,Specialty Chemicals,Additives,Jakarta WH,9031.56,620658281.9291999,67254.26,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-10-01,Binders,Industrial Resins,Bandung WH,5016.95,136232367.419,27154.42,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-10-01,Binders,Industrial Resins,Jakarta WH,9093.61,585364960.1021,70963.79,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-10-01,Binders,Industrial Resins,Surabaya WH,3048.37,142039318.37289998,46595.17,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-10-01,Colorants,Inorganic Pigments,Bandung WH,9523.05,794865649.9552,88737.79999999999,2,0,0,0,True,False
+Matapel Chemicals Sample,2024-10-01,Colorants,Inorganic Pigments,Jakarta WH,7936.75,616305145.94,77652.08,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-10-01,Colorants,Inorganic Pigments,Surabaya WH,6718.66,175021966.4258,26050.13,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-10-01,Colorants,Organic Pigments,Bandung WH,206.93,14818232.468400002,71609.88,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-10-01,Colorants,Organic Pigments,Jakarta WH,4365.8099999999995,239212919.12669998,69082.89499999999,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-10-01,Colorants,Organic Pigments,Surabaya WH,4654.68,357797199.00360006,76868.27,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-10-01,Solvents,Solvents,Bandung WH,6031.62,420521409.9576,69719.48,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-10-01,Solvents,Solvents,Jakarta WH,19444.260000000002,1462490815.0386,58030.003333333334,3,0,0,0,True,False
+Matapel Chemicals Sample,2024-11-01,Specialty Chemicals,Additives,Bandung WH,13287.26,872395599.0438,59719.993333333325,3,0,0,0,True,False
+Matapel Chemicals Sample,2024-11-01,Specialty Chemicals,Additives,Jakarta WH,1439.47,86112780.44319999,59822.56,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-11-01,Binders,Industrial Resins,Bandung WH,6179.18,216202346.63070002,36940.875,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-11-01,Binders,Industrial Resins,Jakarta WH,7938.89,461005604.62810004,71804.69,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-11-01,Colorants,Inorganic Pigments,Bandung WH,15335.09,872115830.3317001,66994.39666666667,3,0,0,0,True,False
+Matapel Chemicals Sample,2024-11-01,Colorants,Inorganic Pigments,Surabaya WH,7221.1,569972760.1270001,78931.57,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-11-01,Colorants,Organic Pigments,Bandung WH,-50.0,-3760166.5,75203.33,1,1,0,1,False,False
+Matapel Chemicals Sample,2024-11-01,Colorants,Organic Pigments,Jakarta WH,4221.91,213315126.96339998,50525.74,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-11-01,Colorants,Organic Pigments,Surabaya WH,6121.56,468424089.35370004,81460.045,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-11-01,Solvents,Solvents,Bandung WH,9247.7,570463016.9311,58798.534999999996,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-11-01,Solvents,Solvents,Jakarta WH,16167.85,1244546591.189,59648.49,2,0,0,0,True,False
+Matapel Chemicals Sample,2024-12-01,Specialty Chemicals,Additives,Bandung WH,1497.26,89618946.478,59855.3,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-12-01,Specialty Chemicals,Additives,Surabaya WH,13148.3,858809483.482,57308.75666666666,3,0,0,0,True,False
+Matapel Chemicals Sample,2024-12-01,Binders,Industrial Resins,Bandung WH,11093.900000000001,494533769.3895,40434.065,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-12-01,Binders,Industrial Resins,Surabaya WH,4404.2300000000005,257688258.1533,69837.6,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-12-01,Colorants,Inorganic Pigments,Bandung WH,-50.0,-4632423.5,92648.47,1,1,0,1,False,False
+Matapel Chemicals Sample,2024-12-01,Colorants,Inorganic Pigments,Jakarta WH,15548.89,835693654.7959001,51738.130000000005,2,0,0,0,True,False
+Matapel Chemicals Sample,2024-12-01,Colorants,Inorganic Pigments,Surabaya WH,7066.76,524555701.3360001,74228.6,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-12-01,Colorants,Organic Pigments,Bandung WH,1307.8,103726755.57,79933.05,2,0,0,0,False,False
+Matapel Chemicals Sample,2024-12-01,Colorants,Organic Pigments,Jakarta WH,4973.8,261614120.872,52598.44,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-12-01,Colorants,Organic Pigments,Surabaya WH,6033.35,494436833.5105001,81950.63,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-12-01,Solvents,Solvents,Bandung WH,14045.61,1155891200.0355,82295.55,1,0,0,0,True,False
+Matapel Chemicals Sample,2024-12-01,Solvents,Solvents,Jakarta WH,7533.94,531812386.5872,70588.88,1,0,0,0,False,False
+Matapel Chemicals Sample,2024-12-01,Solvents,Solvents,Surabaya WH,3007.46,131657329.03279999,43809.78999999999,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-01-01,Specialty Chemicals,Additives,Jakarta WH,11336.07,671142815.4083,49321.26,3,0,0,0,False,False
+Matapel Chemicals Sample,2025-01-01,Specialty Chemicals,Additives,Surabaya WH,3720.69,311459964.4863,83710.27,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-01-01,Binders,Industrial Resins,Bandung WH,7468.14,393964399.61520004,52752.68,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-01-01,Binders,Industrial Resins,Jakarta WH,1525.01,134795588.14970002,88389.97,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-01-01,Binders,Industrial Resins,Surabaya WH,6808.8099999999995,246966483.39999998,37972.479999999996,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-01-01,Colorants,Inorganic Pigments,Bandung WH,6664.1,508388794.929,76287.69,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-01-01,Colorants,Inorganic Pigments,Surabaya WH,14595.52,794704486.881,67591.88333333333,3,1,0,1,True,False
+Matapel Chemicals Sample,2025-01-01,Colorants,Organic Pigments,Bandung WH,1158.56,96934398.08,83668.0,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-01-01,Colorants,Organic Pigments,Jakarta WH,5658.42,458155703.6328,80968.84,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-01-01,Colorants,Organic Pigments,Surabaya WH,4327.53,240562163.20589998,61406.295,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-01-01,Solvents,Solvents,Bandung WH,17687.010000000002,1270630256.2086,56244.44,3,0,0,0,True,False
+Matapel Chemicals Sample,2025-01-01,Solvents,Solvents,Surabaya WH,7343.41,490167770.8494,66749.34,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-02-01,Specialty Chemicals,Additives,Bandung WH,2867.01,64033865.58720001,22334.72,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-02-01,Specialty Chemicals,Additives,Jakarta WH,1074.94,62911583.709800005,58525.67,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-02-01,Specialty Chemicals,Additives,Surabaya WH,10302.26,754535962.9798,75395.27,2,0,0,0,True,False
+Matapel Chemicals Sample,2025-02-01,Binders,Industrial Resins,Bandung WH,1456.54,134732484.37960002,92501.74,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-02-01,Binders,Industrial Resins,Jakarta WH,3656.64,171309086.33279997,46848.77,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-02-01,Binders,Industrial Resins,Surabaya WH,11828.68,514986876.421,40472.2,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-02-01,Colorants,Inorganic Pigments,Bandung WH,15751.880000000001,802782923.4211,64043.043333333335,3,1,0,1,True,False
+Matapel Chemicals Sample,2025-02-01,Colorants,Inorganic Pigments,Surabaya WH,6569.53,508770090.0623,77443.91,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-02-01,Colorants,Organic Pigments,Bandung WH,-50.0,-3780383.5,75607.67,1,1,0,1,False,False
+Matapel Chemicals Sample,2025-02-01,Colorants,Organic Pigments,Jakarta WH,6065.65,477797376.80649996,78771.01,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-02-01,Colorants,Organic Pigments,Surabaya WH,6283.69,343838993.1534,66070.14,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-02-01,Solvents,Solvents,Bandung WH,2490.7,132796328.109,53316.87,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-02-01,Solvents,Solvents,Jakarta WH,7522.33,521401427.60060006,69313.82,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-02-01,Solvents,Solvents,Surabaya WH,14269.59,1175984943.8747,61105.005000000005,2,0,0,0,True,False
+Matapel Chemicals Sample,2025-03-01,Specialty Chemicals,Additives,Bandung WH,2737.88,60549174.458,22115.35,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-03-01,Specialty Chemicals,Additives,Jakarta WH,6424.55,424037412.41580003,62833.545,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-03-01,Specialty Chemicals,Additives,Surabaya WH,3335.42,278643421.6566,83540.73,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-03-01,Binders,Industrial Resins,Bandung WH,12161.0,625693600.3318,49968.31,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-03-01,Binders,Industrial Resins,Jakarta WH,6052.76,233101778.7816,60223.14,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-03-01,Colorants,Inorganic Pigments,Jakarta WH,24385.88,1449341257.6216002,61630.329999999994,3,0,0,0,True,False
+Matapel Chemicals Sample,2025-03-01,Colorants,Inorganic Pigments,Surabaya WH,91.37,8930352.1258,97738.34,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-03-01,Colorants,Organic Pigments,Bandung WH,13896.48,920492321.3636,73333.46250000001,4,1,0,1,True,False
+Matapel Chemicals Sample,2025-03-01,Solvents,Solvents,Bandung WH,8507.89,594665777.862,69895.8,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-03-01,Solvents,Solvents,Surabaya WH,18480.4,1374769421.158,57909.87333333333,3,0,0,0,True,False
+Matapel Chemicals Sample,2025-04-01,Specialty Chemicals,Additives,Bandung WH,8781.599999999999,460751594.028,46679.835,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-04-01,Specialty Chemicals,Additives,Jakarta WH,1245.93,78870533.6622,63302.54,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-04-01,Specialty Chemicals,Additives,Surabaya WH,3886.04,318321896.6284,81914.21,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-04-01,Binders,Industrial Resins,Bandung WH,3622.05,101562535.5435,28040.07,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-04-01,Binders,Industrial Resins,Jakarta WH,8809.05,466356744.79199994,52940.64,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-04-01,Binders,Industrial Resins,Surabaya WH,4406.75,216290404.5879,67928.37,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-04-01,Colorants,Inorganic Pigments,Bandung WH,7178.87,537216953.0196,74833.08,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-04-01,Colorants,Inorganic Pigments,Jakarta WH,6670.27,522883599.24590003,78390.17,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-04-01,Colorants,Inorganic Pigments,Surabaya WH,10090.45,252958899.89300004,60776.515,2,1,0,1,False,False
+Matapel Chemicals Sample,2025-04-01,Colorants,Organic Pigments,Bandung WH,5462.05,428071454.87700003,78371.94,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-04-01,Colorants,Organic Pigments,Jakarta WH,9230.38,530773179.05050004,69468.625,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-04-01,Colorants,Organic Pigments,Surabaya WH,-50.0,-3744094.0,74881.88,1,1,0,1,False,False
+Matapel Chemicals Sample,2025-04-01,Solvents,Solvents,Jakarta WH,9262.1,633142151.3980001,68358.38,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-04-01,Solvents,Solvents,Surabaya WH,17553.36,1292969583.0052001,57038.93666666667,3,0,0,0,True,False
+Matapel Chemicals Sample,2025-05-01,Specialty Chemicals,Additives,Bandung WH,6000.42,425176565.17260003,70654.73,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-05-01,Specialty Chemicals,Additives,Surabaya WH,7981.280000000001,418141595.5573,46598.465,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-05-01,Binders,Industrial Resins,Bandung WH,4494.18,125192259.9954,27856.53,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-05-01,Binders,Industrial Resins,Jakarta WH,3903.09,177331429.824,45433.6,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-05-01,Binders,Industrial Resins,Surabaya WH,8350.49,451664925.7754,71583.16,2,1,0,1,False,False
+Matapel Chemicals Sample,2025-05-01,Colorants,Inorganic Pigments,Bandung WH,8202.72,647574147.8544,78946.27,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-05-01,Colorants,Inorganic Pigments,Jakarta WH,11063.97,288445553.31869996,26070.71,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-05-01,Colorants,Inorganic Pigments,Surabaya WH,6376.89,492842616.8042,84542.905,2,1,0,1,False,False
+Matapel Chemicals Sample,2025-05-01,Colorants,Organic Pigments,Bandung WH,5680.57,457325080.93299997,80506.9,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-05-01,Colorants,Organic Pigments,Jakarta WH,8168.83,457783599.4526,69389.33,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-05-01,Colorants,Organic Pigments,Surabaya WH,-50.0,-3655148.0000000005,73102.96,1,1,0,1,False,False
+Matapel Chemicals Sample,2025-05-01,Solvents,Solvents,Bandung WH,22212.34,1695029384.8442998,74894.295,2,0,0,0,True,False
+Matapel Chemicals Sample,2025-05-01,Solvents,Solvents,Surabaya WH,5396.110000000001,259971589.42080003,44269.5,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-06-01,Specialty Chemicals,Additives,Bandung WH,7866.63,358684741.4547,42673.965000000004,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-06-01,Specialty Chemicals,Additives,Surabaya WH,8834.74,637682480.8281,74137.815,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-06-01,Binders,Industrial Resins,Bandung WH,8406.66,435233720.7834,51772.49,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-06-01,Binders,Industrial Resins,Jakarta WH,75.0,6588814.5,87850.86,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-06-01,Binders,Industrial Resins,Surabaya WH,9636.82,361398022.657,37668.225000000006,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-06-01,Colorants,Inorganic Pigments,Jakarta WH,6385.81,524325372.72300005,86401.655,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-06-01,Colorants,Inorganic Pigments,Surabaya WH,18452.39,796623636.8266001,49117.165,2,0,0,0,True,False
+Matapel Chemicals Sample,2025-06-01,Colorants,Organic Pigments,Bandung WH,6396.900000000001,520582616.15040004,81660.765,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-06-01,Colorants,Organic Pigments,Jakarta WH,7685.26,402534164.8736,63349.225,2,1,0,1,False,False
+Matapel Chemicals Sample,2025-06-01,Solvents,Solvents,Bandung WH,3729.2,190074377.93199998,50969.21,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-06-01,Solvents,Solvents,Jakarta WH,9994.72,682252580.336,68261.3,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-06-01,Solvents,Solvents,Surabaya WH,14337.68,1128410478.444,57349.770000000004,2,1,0,1,True,False
+Matapel Chemicals Sample,2025-07-01,Specialty Chemicals,Additives,Jakarta WH,8885.24,662135235.7472,75870.48000000001,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-07-01,Specialty Chemicals,Additives,Surabaya WH,7369.9400000000005,310162427.3428,40790.365,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-07-01,Binders,Industrial Resins,Surabaya WH,15691.26,727640190.9667,54584.067500000005,4,0,0,0,True,False
+Matapel Chemicals Sample,2025-07-01,Colorants,Inorganic Pigments,Jakarta WH,11954.25,313469483.8275,26222.43,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-07-01,Colorants,Inorganic Pigments,Surabaya WH,12440.619999999999,997827293.9519999,85984.75,3,1,0,1,True,False
+Matapel Chemicals Sample,2025-07-01,Colorants,Organic Pigments,Bandung WH,6303.52,497953201.1320001,81752.565,2,1,0,1,False,False
+Matapel Chemicals Sample,2025-07-01,Colorants,Organic Pigments,Jakarta WH,7347.11,400450276.3757,64507.815,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-07-01,Solvents,Solvents,Bandung WH,3611.03,184725179.0184,42823.29,2,1,0,1,False,False
+Matapel Chemicals Sample,2025-07-01,Solvents,Solvents,Jakarta WH,25440.739999999998,2005593110.9345999,77999.75,2,0,0,0,True,False
+Matapel Chemicals Sample,2025-08-01,Specialty Chemicals,Additives,Bandung WH,3348.03,81257725.98930001,24270.31,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-08-01,Specialty Chemicals,Additives,Jakarta WH,4994.89,296210163.50960004,59302.64,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-08-01,Specialty Chemicals,Additives,Surabaya WH,8926.46,652059385.8454001,73925.125,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-08-01,Binders,Industrial Resins,Jakarta WH,16446.16,707774944.8636999,53749.615,4,1,0,1,True,False
+Matapel Chemicals Sample,2025-08-01,Colorants,Inorganic Pigments,Bandung WH,6291.33,490451451.2376,77956.72,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-08-01,Colorants,Inorganic Pigments,Jakarta WH,12287.83,306742820.5862,24963.14,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-08-01,Colorants,Inorganic Pigments,Surabaya WH,6804.24,564429897.783,89545.43,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-08-01,Colorants,Organic Pigments,Bandung WH,7288.030000000001,381136973.6904,70105.795,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-08-01,Colorants,Organic Pigments,Jakarta WH,-50.0,-3735341.5,74706.83,1,1,0,1,False,False
+Matapel Chemicals Sample,2025-08-01,Colorants,Organic Pigments,Surabaya WH,6469.74,487197365.65739995,75304.01,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-08-01,Solvents,Solvents,Jakarta WH,2639.92,137150417.4008,51952.49,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-08-01,Solvents,Solvents,Surabaya WH,25378.27,1887274269.5994,61063.85,3,1,0,1,True,False
+Matapel Chemicals Sample,2025-09-01,Specialty Chemicals,Additives,Bandung WH,3595.46,300050449.2414,83452.59,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-09-01,Specialty Chemicals,Additives,Jakarta WH,5214.08,348924982.2208,66919.76,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-09-01,Specialty Chemicals,Additives,Surabaya WH,9087.970000000001,416780623.3444,41746.07,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-09-01,Binders,Industrial Resins,Bandung WH,7449.110000000001,280278720.5169,38203.11,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-09-01,Binders,Industrial Resins,Jakarta WH,-50.0,-4300560.0,86011.2,1,1,0,1,False,False
+Matapel Chemicals Sample,2025-09-01,Binders,Industrial Resins,Surabaya WH,8035.07,411279236.18639994,51185.52,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-09-01,Colorants,Inorganic Pigments,Bandung WH,19190.0,782735266.0186,50144.57,2,0,0,0,True,False
+Matapel Chemicals Sample,2025-09-01,Colorants,Inorganic Pigments,Jakarta WH,5111.46,410614418.0952,80332.12,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-09-01,Colorants,Inorganic Pigments,Surabaya WH,839.59,76059927.38250001,90591.75,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-09-01,Colorants,Organic Pigments,Jakarta WH,7712.02,615912148.3184,79863.92,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-09-01,Colorants,Organic Pigments,Surabaya WH,8028.91,450262998.05139995,68477.69,3,0,0,0,False,False
+Matapel Chemicals Sample,2025-09-01,Solvents,Solvents,Jakarta WH,-50.0,-1740570.0,34811.4,1,1,0,1,False,False
+Matapel Chemicals Sample,2025-09-01,Solvents,Solvents,Surabaya WH,28221.05,2030647234.7329,67337.93666666666,3,0,0,0,True,False
+Matapel Chemicals Sample,2025-10-01,Specialty Chemicals,Additives,Bandung WH,17163.38,1056137449.1026001,59345.365000000005,4,0,0,0,True,False
+Matapel Chemicals Sample,2025-10-01,Binders,Industrial Resins,Jakarta WH,8629.13,468096808.7025,70668.36,2,1,0,1,False,False
+Matapel Chemicals Sample,2025-10-01,Binders,Industrial Resins,Surabaya WH,4509.55,177748850.0726,37928.88,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-10-01,Colorants,Inorganic Pigments,Bandung WH,11943.349999999999,927186232.2774999,82651.94,3,0,0,0,True,False
+Matapel Chemicals Sample,2025-10-01,Colorants,Inorganic Pigments,Jakarta WH,12664.14,325554260.8692,25706.78,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-10-01,Colorants,Organic Pigments,Bandung WH,2275.44,181154151.37800002,79112.64,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-10-01,Colorants,Organic Pigments,Jakarta WH,15690.32,1021046366.8771,64812.375,2,0,0,0,True,False
+Matapel Chemicals Sample,2025-10-01,Solvents,Solvents,Bandung WH,382.11,13341435.6087,34915.17,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-10-01,Solvents,Solvents,Jakarta WH,24435.239999999998,1813096288.6495,73583.48499999999,2,0,0,0,True,False
+Matapel Chemicals Sample,2025-10-01,Solvents,Solvents,Surabaya WH,3103.89,156950960.3121,50565.89,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-11-01,Specialty Chemicals,Additives,Bandung WH,12876.59,808730131.0678,56914.72666666666,3,0,0,0,True,False
+Matapel Chemicals Sample,2025-11-01,Specialty Chemicals,Additives,Surabaya WH,5488.78,336894729.864,61378.8,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-11-01,Binders,Industrial Resins,Bandung WH,10837.43,535909137.10589993,40450.625,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-11-01,Binders,Industrial Resins,Jakarta WH,2736.67,133918535.9495,48934.85,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-11-01,Binders,Industrial Resins,Surabaya WH,354.99,32512185.138,91586.2,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-11-01,Colorants,Inorganic Pigments,Bandung WH,215.05,19732117.0475,91755.95,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-11-01,Colorants,Inorganic Pigments,Jakarta WH,5583.65,420822949.54999995,75367.0,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-11-01,Colorants,Inorganic Pigments,Surabaya WH,18697.76,835036387.5097,54346.345,2,0,0,0,True,False
+Matapel Chemicals Sample,2025-11-01,Colorants,Organic Pigments,Bandung WH,8752.56,464993843.66690004,66865.265,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-11-01,Colorants,Organic Pigments,Surabaya WH,11744.13,900029667.2583001,75318.22,2,0,0,0,True,False
+Matapel Chemicals Sample,2025-11-01,Solvents,Solvents,Bandung WH,12930.74,1075900540.7038,83204.87,1,0,0,0,True,False
+Matapel Chemicals Sample,2025-11-01,Solvents,Solvents,Jakarta WH,11511.960000000001,739834105.9784,51364.85,2,0,0,0,True,False
+Matapel Chemicals Sample,2025-11-01,Solvents,Solvents,Surabaya WH,4032.22,219412807.75579998,54414.89,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-12-01,Specialty Chemicals,Additives,Bandung WH,7353.51,464865353.25900006,51166.03,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-12-01,Specialty Chemicals,Additives,Jakarta WH,10765.529999999999,705318616.4600999,65383.235,2,0,0,0,True,False
+Matapel Chemicals Sample,2025-12-01,Binders,Industrial Resins,Bandung WH,2267.51,103487999.96990001,45639.49,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-12-01,Binders,Industrial Resins,Jakarta WH,10243.12,525808911.39,41376.880000000005,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-12-01,Binders,Industrial Resins,Surabaya WH,-41.92,-3687463.0368,87964.29,1,1,0,1,False,False
+Matapel Chemicals Sample,2025-12-01,Colorants,Inorganic Pigments,Bandung WH,12627.67,306618263.9982,24281.46,1,0,0,0,False,False
+Matapel Chemicals Sample,2025-12-01,Colorants,Inorganic Pigments,Jakarta WH,-50.0,-4607649.5,92152.99,1,1,0,1,False,False
+Matapel Chemicals Sample,2025-12-01,Colorants,Inorganic Pigments,Surabaya WH,12623.54,990586234.6214,78388.01000000001,2,0,0,0,True,False
+Matapel Chemicals Sample,2025-12-01,Colorants,Organic Pigments,Bandung WH,-50.0,-4446250.0,88925.0,1,1,0,1,False,False
+Matapel Chemicals Sample,2025-12-01,Colorants,Organic Pigments,Jakarta WH,9771.87,790847406.4074001,80931.02,1,0,0,0,True,False
+Matapel Chemicals Sample,2025-12-01,Colorants,Organic Pigments,Surabaya WH,8731.78,461436520.2272,60194.854999999996,2,0,0,0,False,False
+Matapel Chemicals Sample,2025-12-01,Solvents,Solvents,Jakarta WH,17140.55,1233361266.6507,57252.01333333333,3,0,0,0,True,False
+Matapel Chemicals Sample,2025-12-01,Solvents,Solvents,Surabaya WH,10852.26,745651839.1536,68709.36,1,0,0,0,True,False
+Matapel Tradindo Sample,2023-01-01,Specialty Chemicals,Additives,Bandung WH,3682.01,107310487.72540002,29144.54,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-01-01,Specialty Chemicals,Additives,Surabaya WH,8899.92,369333510.88850003,53590.40333333333,3,0,0,0,False,False
+Matapel Tradindo Sample,2023-01-01,Binders,Industrial Resins,Bandung WH,5933.969999999999,296870089.4443,58316.27333333334,3,1,0,1,False,False
+Matapel Tradindo Sample,2023-01-01,Binders,Industrial Resins,Surabaya WH,2924.9,265014074.38,90606.2,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-01-01,Colorants,Inorganic Pigments,Bandung WH,1654.36,34233588.762,20692.95,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-01-01,Colorants,Inorganic Pigments,Surabaya WH,11782.61,777615551.7643,57069.89666666667,3,0,0,0,True,False
+Matapel Tradindo Sample,2023-01-01,Colorants,Organic Pigments,Bandung WH,9802.26,676677047.1854,69693.75,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-01-01,Colorants,Organic Pigments,Jakarta WH,2877.0600000000004,233426209.64570004,81823.895,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-01-01,Solvents,Solvents,Bandung WH,4496.02,227537247.9178,50817.46000000001,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-01-01,Solvents,Solvents,Jakarta WH,2195.33,99326849.6713,45244.61,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-01-01,Solvents,Solvents,Surabaya WH,1782.67,55861836.2535,31336.05,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-02-01,Specialty Chemicals,Additives,Bandung WH,10161.86,331459773.8336,31601.034999999996,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-02-01,Specialty Chemicals,Additives,Surabaya WH,2072.08,127802114.7274,60582.73,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-02-01,Binders,Industrial Resins,Bandung WH,3501.45,109737718.9425,31340.65,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-02-01,Binders,Industrial Resins,Jakarta WH,3045.22,206513970.34479997,73258.89,2,1,0,1,False,False
+Matapel Tradindo Sample,2023-02-01,Binders,Industrial Resins,Surabaya WH,3220.44,289197991.7388,89800.77,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-02-01,Colorants,Inorganic Pigments,Bandung WH,12746.86,810290634.1026001,55735.02,3,0,0,0,True,False
+Matapel Tradindo Sample,2023-02-01,Colorants,Inorganic Pigments,Surabaya WH,2755.59,58495802.2995,21228.05,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-02-01,Colorants,Organic Pigments,Bandung WH,1874.09,170970063.4879,91228.31,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-02-01,Colorants,Organic Pigments,Jakarta WH,4961.54,226526203.7022,45656.43,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-02-01,Colorants,Organic Pigments,Surabaya WH,7434.92,675450119.3856,86803.32,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-02-01,Solvents,Solvents,Bandung WH,2603.24,86955973.6552,33402.98,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-02-01,Solvents,Solvents,Surabaya WH,8721.73,411814168.8407,47759.30333333334,3,0,0,0,False,False
+Matapel Tradindo Sample,2023-03-01,Specialty Chemicals,Additives,Bandung WH,1346.36,71731516.1796,53278.11,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-03-01,Specialty Chemicals,Additives,Jakarta WH,9577.14,301761083.08669996,44189.76666666666,3,1,0,1,False,False
+Matapel Tradindo Sample,2023-03-01,Binders,Industrial Resins,Bandung WH,3558.96,328596107.58,92329.25,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-03-01,Binders,Industrial Resins,Jakarta WH,5956.53,313136277.0522,61201.130000000005,3,0,0,0,False,False
+Matapel Tradindo Sample,2023-03-01,Colorants,Inorganic Pigments,Bandung WH,6391.86,462403430.9925,56041.94500000001,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-03-01,Colorants,Inorganic Pigments,Jakarta WH,6379.71,361755522.4197,56704.07,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-03-01,Colorants,Inorganic Pigments,Surabaya WH,2762.74,59479222.851799995,21529.07,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-03-01,Colorants,Organic Pigments,Bandung WH,7734.26,691988214.9652001,85104.82,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-03-01,Colorants,Organic Pigments,Surabaya WH,7263.7699999999995,422970073.1336,66108.995,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-03-01,Solvents,Solvents,Bandung WH,2613.0,143989129.83,55104.91,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-03-01,Solvents,Solvents,Jakarta WH,2936.84,93084289.1676,31695.39,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-03-01,Solvents,Solvents,Surabaya WH,5765.9,249799012.8642,43531.229999999996,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-04-01,Specialty Chemicals,Additives,Bandung WH,7348.950000000001,304104005.0001,52177.43,3,0,0,0,False,False
+Matapel Tradindo Sample,2023-04-01,Specialty Chemicals,Additives,Surabaya WH,3717.57,108028606.40010001,29058.93,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-04-01,Binders,Industrial Resins,Bandung WH,7802.15,507670186.1448,63492.275,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-04-01,Binders,Industrial Resins,Jakarta WH,1619.87,118591363.0454,73210.42,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-04-01,Binders,Industrial Resins,Surabaya WH,-50.0,-3865039.4999999995,77300.79,1,1,0,1,False,False
+Matapel Tradindo Sample,2023-04-01,Colorants,Inorganic Pigments,Jakarta WH,8715.17,454689179.4525,44954.04,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-04-01,Colorants,Inorganic Pigments,Surabaya WH,9174.619999999999,579577542.8464,50404.235,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-04-01,Colorants,Organic Pigments,Jakarta WH,1477.79,128279383.6152,86804.88,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-04-01,Colorants,Organic Pigments,Surabaya WH,12432.470000000001,917303863.2449,72915.62333333334,3,0,0,0,True,False
+Matapel Tradindo Sample,2023-04-01,Solvents,Solvents,Bandung WH,6191.07,268810836.46790004,44104.056666666664,3,0,0,0,False,False
+Matapel Tradindo Sample,2023-04-01,Solvents,Solvents,Jakarta WH,4591.27,194315585.6068,42322.84,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-05-01,Specialty Chemicals,Additives,Bandung WH,3945.29,114105401.2097,28921.93,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-05-01,Specialty Chemicals,Additives,Jakarta WH,5759.52,216825679.42799997,43848.369999999995,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-05-01,Specialty Chemicals,Additives,Surabaya WH,38.88,2747715.3072,70671.69,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-05-01,Binders,Industrial Resins,Jakarta WH,7821.960000000001,652130024.4227,79872.49666666666,3,0,0,0,False,False
+Matapel Tradindo Sample,2023-05-01,Binders,Industrial Resins,Surabaya WH,2559.57,79705726.4796,31140.28,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-05-01,Colorants,Inorganic Pigments,Bandung WH,11925.48,523047935.7738,36585.62,3,0,0,0,False,False
+Matapel Tradindo Sample,2023-05-01,Colorants,Inorganic Pigments,Surabaya WH,6820.71,515635444.935,75598.5,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-05-01,Colorants,Organic Pigments,Bandung WH,3041.96,244527561.46279997,83174.38,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-05-01,Colorants,Organic Pigments,Jakarta WH,5628.52,537174185.1932001,95437.91,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-05-01,Colorants,Organic Pigments,Surabaya WH,4303.5,188196573.675,43731.05,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-05-01,Solvents,Solvents,Bandung WH,1788.1,56878388.14,31809.4,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-05-01,Solvents,Solvents,Jakarta WH,4477.59,197529867.9198,44115.22,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-05-01,Solvents,Solvents,Surabaya WH,5385.6,274901672.9848,50872.494999999995,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-06-01,Specialty Chemicals,Additives,Jakarta WH,5593.37,213595700.0869,51898.45333333334,3,1,0,1,False,False
+Matapel Tradindo Sample,2023-06-01,Specialty Chemicals,Additives,Surabaya WH,4246.75,145731600.4025,34316.03,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-06-01,Binders,Industrial Resins,Bandung WH,2257.67,178096659.17720002,78885.16,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-06-01,Binders,Industrial Resins,Jakarta WH,6565.35,325135965.54760003,50854.75,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-06-01,Binders,Industrial Resins,Surabaya WH,4917.62,472681585.2238,96119.99,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-06-01,Colorants,Inorganic Pigments,Bandung WH,10099.49,437304353.5696,35725.73333333333,3,0,0,0,False,False
+Matapel Tradindo Sample,2023-06-01,Colorants,Inorganic Pigments,Surabaya WH,5911.19,482962725.0247,81703.13,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-06-01,Colorants,Organic Pigments,Bandung WH,1913.43,169752812.595,88716.5,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-06-01,Colorants,Organic Pigments,Surabaya WH,10618.04,777208136.7641,72607.03666666667,3,0,0,0,True,False
+Matapel Tradindo Sample,2023-06-01,Solvents,Solvents,Bandung WH,8869.71,442232191.7313,50767.14,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-06-01,Solvents,Solvents,Jakarta WH,4254.33,185029787.2023,41634.675,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-07-01,Specialty Chemicals,Additives,Bandung WH,-50.0,-2683784.5,53675.69,1,1,0,1,False,False
+Matapel Tradindo Sample,2023-07-01,Specialty Chemicals,Additives,Surabaya WH,6770.25,238946829.63420004,44701.386666666665,3,0,0,0,False,False
+Matapel Tradindo Sample,2023-07-01,Binders,Industrial Resins,Bandung WH,6067.43,320627014.2822,52031.535,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-07-01,Binders,Industrial Resins,Jakarta WH,3361.45,247515093.27349997,73633.43,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-07-01,Binders,Industrial Resins,Surabaya WH,5798.2,516982935.212,89162.66,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-07-01,Colorants,Inorganic Pigments,Jakarta WH,5506.9400000000005,403499628.7086,55836.189999999995,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-07-01,Colorants,Inorganic Pigments,Surabaya WH,8782.560000000001,398081358.7294,36477.935,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-07-01,Colorants,Organic Pigments,Bandung WH,6609.780000000001,612606632.6166,91678.73000000001,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-07-01,Colorants,Organic Pigments,Surabaya WH,6562.92,336519849.8292,58474.04,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-07-01,Solvents,Solvents,Bandung WH,6763.4,338647627.8132,49963.740000000005,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-07-01,Solvents,Solvents,Jakarta WH,4022.39,175798675.6217,43705.03,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-07-01,Solvents,Solvents,Surabaya WH,1788.24,59556707.316,33304.65,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-08-01,Specialty Chemicals,Additives,Jakarta WH,2206.83,80233480.1478,53698.9,2,1,0,1,False,False
+Matapel Tradindo Sample,2023-08-01,Specialty Chemicals,Additives,Surabaya WH,2213.6,58735973.199999996,41783.3,2,1,0,1,False,False
+Matapel Tradindo Sample,2023-08-01,Binders,Industrial Resins,Bandung WH,2265.43,173163873.58789998,76437.53,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-08-01,Binders,Industrial Resins,Jakarta WH,3587.52,243811231.4688,67960.94,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-08-01,Binders,Industrial Resins,Surabaya WH,7887.59,532517267.17579997,60418.66,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-08-01,Colorants,Inorganic Pigments,Bandung WH,6225.92,404076431.6862,43609.753333333334,3,1,0,1,False,False
+Matapel Tradindo Sample,2023-08-01,Colorants,Inorganic Pigments,Jakarta WH,6309.85,328545371.20250005,52068.65,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-08-01,Colorants,Organic Pigments,Bandung WH,6560.45,395728721.4745,62808.585,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-08-01,Colorants,Organic Pigments,Jakarta WH,6801.52,635024787.2364,92365.09,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-08-01,Solvents,Solvents,Bandung WH,2906.72,134481871.512,46265.85,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-08-01,Solvents,Solvents,Jakarta WH,1526.72,52418129.6704,34333.82,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-08-01,Solvents,Solvents,Surabaya WH,9017.11,437942042.825,48403.335,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-09-01,Specialty Chemicals,Additives,Bandung WH,3299.37,94274482.7076,28573.48,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-09-01,Specialty Chemicals,Additives,Surabaya WH,1669.44,54202503.5332,54011.53333333333,3,2,0,2,False,False
+Matapel Tradindo Sample,2023-09-01,Binders,Industrial Resins,Bandung WH,7659.459999999999,628044470.0126,80431.465,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-09-01,Binders,Industrial Resins,Jakarta WH,2251.32,176893416.624,78573.2,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-09-01,Binders,Industrial Resins,Surabaya WH,2539.71,79461608.3757,31287.67,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-09-01,Colorants,Inorganic Pigments,Surabaya WH,13335.82,784497422.5951,47423.740000000005,4,1,0,1,True,False
+Matapel Tradindo Sample,2023-09-01,Colorants,Organic Pigments,Bandung WH,3250.64,297748709.548,91596.95,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-09-01,Colorants,Organic Pigments,Jakarta WH,10213.9,721474213.6557,70103.51333333332,3,0,0,0,True,False
+Matapel Tradindo Sample,2023-09-01,Solvents,Solvents,Bandung WH,2392.31,75628574.492,31613.2,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-09-01,Solvents,Solvents,Jakarta WH,3711.83,158768702.871,42773.7,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-09-01,Solvents,Solvents,Surabaya WH,6664.62,359824300.539,51628.65,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-10-01,Specialty Chemicals,Additives,Bandung WH,4430.15,118521653.78649999,49245.26,2,1,0,1,False,False
+Matapel Tradindo Sample,2023-10-01,Specialty Chemicals,Additives,Jakarta WH,2018.3000000000002,69378447.80700001,46355.685,2,1,0,1,False,False
+Matapel Tradindo Sample,2023-10-01,Binders,Industrial Resins,Bandung WH,3995.98,289126775.27180004,72354.41,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-10-01,Binders,Industrial Resins,Jakarta WH,6164.47,479066121.001,63753.2,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-10-01,Binders,Industrial Resins,Surabaya WH,2397.44,181606032.0512,75749.98,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-10-01,Colorants,Inorganic Pigments,Bandung WH,5969.88,430923963.1844001,51920.125,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-10-01,Colorants,Inorganic Pigments,Jakarta WH,-50.0,-1697124.0000000002,33942.48,1,1,0,1,False,False
+Matapel Tradindo Sample,2023-10-01,Colorants,Inorganic Pigments,Surabaya WH,4877.63,256409838.9839,52568.53,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-10-01,Colorants,Organic Pigments,Bandung WH,2717.59,252800005.12400004,93023.6,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-10-01,Colorants,Organic Pigments,Jakarta WH,4943.95,432843860.7295,87550.21,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-10-01,Colorants,Organic Pigments,Surabaya WH,6430.49,391146882.4216,61985.015,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-10-01,Solvents,Solvents,Bandung WH,2128.59,103852628.94600001,48789.4,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-10-01,Solvents,Solvents,Jakarta WH,3965.77,216090682.8992,54488.96,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-10-01,Solvents,Solvents,Surabaya WH,7322.38,280193843.6265,37506.045,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-11-01,Specialty Chemicals,Additives,Bandung WH,1830.11,68484216.89019999,37420.82,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-11-01,Specialty Chemicals,Additives,Jakarta WH,5658.6,172114563.6132,49374.515,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-11-01,Specialty Chemicals,Additives,Surabaya WH,486.07,26116210.5724,53729.32,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-11-01,Binders,Industrial Resins,Bandung WH,2505.59,193033284.4695,77041.05,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-11-01,Binders,Industrial Resins,Jakarta WH,4918.96,285279712.87869996,48805.604999999996,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-11-01,Binders,Industrial Resins,Surabaya WH,4257.0,381878697.42,89706.06,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-11-01,Colorants,Inorganic Pigments,Bandung WH,5004.99,286104197.3121,57163.79,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-11-01,Colorants,Inorganic Pigments,Jakarta WH,4866.26,380131549.595,78115.75,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-11-01,Colorants,Inorganic Pigments,Surabaya WH,1721.53,35115915.865,27459.805,2,1,0,1,False,False
+Matapel Tradindo Sample,2023-11-01,Colorants,Organic Pigments,Bandung WH,9404.1,605308921.5015,64908.105,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-11-01,Colorants,Organic Pigments,Jakarta WH,3074.64,234624025.85519996,76309.43,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-11-01,Colorants,Organic Pigments,Surabaya WH,3151.35,308368200.68549997,97852.73,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-11-01,Solvents,Solvents,Bandung WH,3196.87,154347409.1273,48280.79,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-11-01,Solvents,Solvents,Jakarta WH,7796.8099999999995,292317180.3372,37599.884999999995,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-11-01,Solvents,Solvents,Surabaya WH,5112.19,268779677.24369997,52576.23,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-12-01,Specialty Chemicals,Additives,Bandung WH,5702.85,154649144.9295,27117.87,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-12-01,Specialty Chemicals,Additives,Jakarta WH,1852.31,65731887.676400006,35486.44,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-12-01,Specialty Chemicals,Additives,Surabaya WH,-57.980000000000004,-3922815.7808,61948.354999999996,2,2,0,2,False,False
+Matapel Tradindo Sample,2023-12-01,Binders,Industrial Resins,Jakarta WH,2507.47,192016987.51059997,76577.98,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-12-01,Binders,Industrial Resins,Surabaya WH,10776.220000000001,867682435.1466999,65201.329999999994,3,0,0,0,True,False
+Matapel Tradindo Sample,2023-12-01,Colorants,Inorganic Pigments,Bandung WH,10687.61,653024746.3804001,51005.68333333333,3,0,0,0,False,False
+Matapel Tradindo Sample,2023-12-01,Colorants,Inorganic Pigments,Jakarta WH,804.34,26457718.658,32893.7,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-12-01,Colorants,Organic Pigments,Bandung WH,8445.61,535844215.968,68120.17,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-12-01,Colorants,Organic Pigments,Jakarta WH,3965.41,300327424.43389994,75736.79,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-12-01,Colorants,Organic Pigments,Surabaya WH,3651.58,322275012.9856,88256.32,1,0,0,0,False,False
+Matapel Tradindo Sample,2023-12-01,Solvents,Solvents,Bandung WH,6772.75,346369628.8723,49692.34,2,0,0,0,False,False
+Matapel Tradindo Sample,2023-12-01,Solvents,Solvents,Surabaya WH,8333.310000000001,296305532.4297,36825.875,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-01-01,Specialty Chemicals,Additives,Bandung WH,6654.87,181076065.9033,41397.0,2,1,0,1,False,False
+Matapel Tradindo Sample,2024-01-01,Specialty Chemicals,Additives,Surabaya WH,651.14,23473018.917600002,54134.94,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-01-01,Binders,Industrial Resins,Bandung WH,2518.6,189137541.18,75096.3,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-01-01,Binders,Industrial Resins,Jakarta WH,4060.77,284469892.3563,70053.19,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-01-01,Binders,Industrial Resins,Surabaya WH,6320.26,493193187.2448,63478.049999999996,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-01-01,Colorants,Inorganic Pigments,Bandung WH,4562.08,346478261.8104,53776.805,2,1,0,1,False,False
+Matapel Tradindo Sample,2024-01-01,Colorants,Inorganic Pigments,Jakarta WH,3844.92,219510097.0248,57090.94,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-01-01,Colorants,Inorganic Pigments,Surabaya WH,1104.04,23742324.998,21504.95,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-01-01,Colorants,Organic Pigments,Bandung WH,4609.82,212625319.9026,46124.43,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-01-01,Colorants,Organic Pigments,Jakarta WH,6716.4400000000005,562865207.3053,83933.825,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-01-01,Colorants,Organic Pigments,Surabaya WH,4215.08,363069456.4672,86135.84,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-01-01,Solvents,Solvents,Bandung WH,9601.18,480738943.8799,47942.00666666666,3,0,0,0,False,False
+Matapel Tradindo Sample,2024-01-01,Solvents,Solvents,Jakarta WH,5081.52,170115366.23520002,33477.26,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-02-01,Specialty Chemicals,Additives,Jakarta WH,5809.12,159845445.132,47965.244999999995,2,1,0,1,False,False
+Matapel Tradindo Sample,2024-02-01,Specialty Chemicals,Additives,Surabaya WH,2185.82,75292841.8904,46096.42,2,1,0,1,False,False
+Matapel Tradindo Sample,2024-02-01,Binders,Industrial Resins,Bandung WH,2732.01,85663621.5153,31355.53,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-02-01,Binders,Industrial Resins,Jakarta WH,6373.66,554639456.597,86302.79000000001,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-02-01,Binders,Industrial Resins,Surabaya WH,2936.49,202534736.6979,68971.71,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-02-01,Colorants,Inorganic Pigments,Bandung WH,5524.89,346639361.79810005,50790.35,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-02-01,Colorants,Inorganic Pigments,Jakarta WH,4458.53,236659574.93539998,53080.18,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-02-01,Colorants,Inorganic Pigments,Surabaya WH,-50.0,-1638930.5,32778.61,1,1,0,1,False,False
+Matapel Tradindo Sample,2024-02-01,Colorants,Organic Pigments,Jakarta WH,7465.43,696824518.3657999,93098.47,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-02-01,Colorants,Organic Pigments,Surabaya WH,8385.46,496790316.1766,60519.185000000005,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-02-01,Solvents,Solvents,Bandung WH,6511.09,345258012.0827,51683.69,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-02-01,Solvents,Solvents,Jakarta WH,2058.55,90237815.55100001,43835.62,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-02-01,Solvents,Solvents,Surabaya WH,4815.49,164142670.18109998,34086.39,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-03-01,Specialty Chemicals,Additives,Surabaya WH,8950.67,337217428.2179,48265.380000000005,4,1,0,1,False,False
+Matapel Tradindo Sample,2024-03-01,Binders,Industrial Resins,Bandung WH,6441.73,477801695.6404,73779.81,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-03-01,Binders,Industrial Resins,Surabaya WH,7095.38,431189475.995,61104.630000000005,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-03-01,Colorants,Inorganic Pigments,Bandung WH,3642.47,297028858.62,81546.0,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-03-01,Colorants,Inorganic Pigments,Jakarta WH,2978.52,165706197.282,44677.695,2,1,0,1,False,False
+Matapel Tradindo Sample,2024-03-01,Colorants,Inorganic Pigments,Surabaya WH,1565.6,32211828.599999998,20574.75,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-03-01,Colorants,Organic Pigments,Jakarta WH,2990.8,292914884.512,97938.64,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-03-01,Colorants,Organic Pigments,Surabaya WH,13191.869999999999,912311171.4825001,72088.60333333333,3,0,0,0,True,False
+Matapel Tradindo Sample,2024-03-01,Solvents,Solvents,Bandung WH,5997.83,305379104.036,47979.8,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-03-01,Solvents,Solvents,Jakarta WH,5910.86,214176489.98029998,39019.305,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-04-01,Specialty Chemicals,Additives,Bandung WH,3129.86,115339347.2208,36851.28,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-04-01,Specialty Chemicals,Additives,Jakarta WH,256.38,12835649.049199998,63648.009999999995,2,1,0,1,False,False
+Matapel Tradindo Sample,2024-04-01,Specialty Chemicals,Additives,Surabaya WH,5137.01,139396002.6663,27135.63,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-04-01,Binders,Industrial Resins,Bandung WH,3473.91,105805154.7828,30457.08,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-04-01,Binders,Industrial Resins,Jakarta WH,7269.24,543076439.8928,74706.89499999999,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-04-01,Binders,Industrial Resins,Surabaya WH,3508.27,327787243.6771,93432.73,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-04-01,Colorants,Inorganic Pigments,Bandung WH,4536.71,361911957.211,79774.1,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-04-01,Colorants,Inorganic Pigments,Jakarta WH,6158.4400000000005,253106303.96829998,37462.585,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-04-01,Colorants,Inorganic Pigments,Surabaya WH,-50.0,-1596664.5,31933.29,1,1,0,1,False,False
+Matapel Tradindo Sample,2024-04-01,Colorants,Organic Pigments,Bandung WH,5790.219999999999,373145469.098,69055.08,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-04-01,Colorants,Organic Pigments,Jakarta WH,4974.73,384346694.60129994,77259.81,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-04-01,Colorants,Organic Pigments,Surabaya WH,3135.3,300777418.074,95932.58,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-04-01,Solvents,Solvents,Jakarta WH,9462.029999999999,435718790.087,45611.51666666666,3,0,0,0,False,False
+Matapel Tradindo Sample,2024-04-01,Solvents,Solvents,Surabaya WH,353.64,15274726.5468,43192.87,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-05-01,Specialty Chemicals,Additives,Bandung WH,2899.41,100833390.4461,34777.21,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-05-01,Specialty Chemicals,Additives,Jakarta WH,5137.450000000001,170963103.1088,41074.445,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-05-01,Specialty Chemicals,Additives,Surabaya WH,18.45,1234202.9715,66894.47,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-05-01,Binders,Industrial Resins,Bandung WH,7831.549999999999,635222189.2925,81845.9,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-05-01,Binders,Industrial Resins,Jakarta WH,3058.91,88341565.51280001,28880.08,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-05-01,Binders,Industrial Resins,Surabaya WH,4840.09,371015114.51309997,76654.59,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-05-01,Colorants,Inorganic Pigments,Bandung WH,7149.49,389436842.65580004,49406.78,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-05-01,Colorants,Inorganic Pigments,Jakarta WH,3201.42,177107932.7856,55321.68,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-05-01,Colorants,Inorganic Pigments,Surabaya WH,-50.0,-1626865.0,32537.3,1,1,0,1,False,False
+Matapel Tradindo Sample,2024-05-01,Colorants,Organic Pigments,Bandung WH,3878.91,365746884.6465,94291.15,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-05-01,Colorants,Organic Pigments,Surabaya WH,10200.84,730947796.4031,71118.15999999999,3,0,0,0,True,False
+Matapel Tradindo Sample,2024-05-01,Solvents,Solvents,Bandung WH,4118.61,227190745.6307,48533.490000000005,2,1,0,1,False,False
+Matapel Tradindo Sample,2024-05-01,Solvents,Solvents,Jakarta WH,4307.110000000001,159703565.69630003,40968.455,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-06-01,Specialty Chemicals,Additives,Bandung WH,566.35,39935609.5635,70514.01,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-06-01,Specialty Chemicals,Additives,Surabaya WH,6475.65,215115412.89569998,41114.450000000004,3,0,0,0,False,False
+Matapel Tradindo Sample,2024-06-01,Binders,Industrial Resins,Bandung WH,14370.57,1137940109.8962,80537.76,3,0,0,0,True,False
+Matapel Tradindo Sample,2024-06-01,Binders,Industrial Resins,Jakarta WH,2408.28,73512939.6624,30525.08,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-06-01,Colorants,Inorganic Pigments,Bandung WH,5904.29,445307928.4332,75421.08,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-06-01,Colorants,Inorganic Pigments,Jakarta WH,-50.0,-1643779.4999999998,32875.59,1,1,0,1,False,False
+Matapel Tradindo Sample,2024-06-01,Colorants,Inorganic Pigments,Surabaya WH,6809.24,265971919.66120005,38169.05,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-06-01,Colorants,Organic Pigments,Bandung WH,8382.4,599322497.1651,70020.70666666667,3,0,0,0,False,False
+Matapel Tradindo Sample,2024-06-01,Colorants,Organic Pigments,Surabaya WH,4011.93,367272934.236,91545.2,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-06-01,Solvents,Solvents,Jakarta WH,9853.9,461903502.0682,44217.7075,4,0,0,0,False,False
+Matapel Tradindo Sample,2024-07-01,Specialty Chemicals,Additives,Jakarta WH,479.46,32602148.4744,67997.64,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-07-01,Specialty Chemicals,Additives,Surabaya WH,7913.84,240264421.01520002,39437.486666666664,3,1,0,1,False,False
+Matapel Tradindo Sample,2024-07-01,Binders,Industrial Resins,Bandung WH,7323.01,423060857.14479995,49199.7,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-07-01,Binders,Industrial Resins,Jakarta WH,7531.49,566928315.5411,75274.39,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-07-01,Binders,Industrial Resins,Surabaya WH,3534.99,335318829.2292,94857.08,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-07-01,Colorants,Inorganic Pigments,Bandung WH,2995.75,72085995.16319999,26865.565000000002,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-07-01,Colorants,Inorganic Pigments,Jakarta WH,3652.48,207380582.4896,56778.02,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-07-01,Colorants,Inorganic Pigments,Surabaya WH,5178.12,404737807.8096,78163.08,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-07-01,Colorants,Organic Pigments,Bandung WH,2714.42,128287913.70459999,47261.63,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-07-01,Colorants,Organic Pigments,Jakarta WH,5725.68,460502171.95919997,81864.29000000001,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-07-01,Colorants,Organic Pigments,Surabaya WH,3694.69,346081723.1407,93670.03,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-07-01,Solvents,Solvents,Bandung WH,879.9300000000001,38627051.8924,43912.195,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-07-01,Solvents,Solvents,Jakarta WH,1239.76,41027514.0536,33093.11,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-07-01,Solvents,Solvents,Surabaya WH,4786.26,259351299.7038,54186.63,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-08-01,Specialty Chemicals,Additives,Bandung WH,1451.92,97691841.9128,67284.59,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-08-01,Specialty Chemicals,Additives,Jakarta WH,9524.05,308950386.40419996,33366.665,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-08-01,Specialty Chemicals,Additives,Surabaya WH,877.64,49617000.0148,56534.57,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-08-01,Binders,Industrial Resins,Bandung WH,8115.06,659610378.1466,82623.425,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-08-01,Binders,Industrial Resins,Jakarta WH,2249.93,68556829.5545,30470.65,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-08-01,Binders,Industrial Resins,Surabaya WH,7759.9,586303046.8510001,75555.49,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-08-01,Colorants,Inorganic Pigments,Jakarta WH,7554.92,507777854.4074,50106.535,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-08-01,Colorants,Inorganic Pigments,Surabaya WH,3877.24,210855611.4836,44408.24,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-08-01,Colorants,Organic Pigments,Bandung WH,2691.01,119793028.07010001,44516.01,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-08-01,Colorants,Organic Pigments,Jakarta WH,5600.11,438637773.48609996,80258.70999999999,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-08-01,Colorants,Organic Pigments,Surabaya WH,3961.68,366546360.1728,92522.96,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-08-01,Solvents,Solvents,Jakarta WH,6300.370000000001,338250892.8693,49259.06333333333,3,0,0,0,False,False
+Matapel Tradindo Sample,2024-08-01,Solvents,Solvents,Surabaya WH,1145.9,38126831.701000005,33272.39,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-09-01,Specialty Chemicals,Additives,Bandung WH,11234.970000000001,419608126.1313,45987.3975,4,0,0,0,False,False
+Matapel Tradindo Sample,2024-09-01,Binders,Industrial Resins,Bandung WH,9877.28,618329403.7983999,53534.86,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-09-01,Binders,Industrial Resins,Jakarta WH,4125.1,300605070.96900004,72872.19,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-09-01,Binders,Industrial Resins,Surabaya WH,4091.73,386913211.3713,94559.81,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-09-01,Colorants,Inorganic Pigments,Bandung WH,2348.09,58023609.309499994,27199.71,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-09-01,Colorants,Inorganic Pigments,Surabaya WH,10244.18,703305316.3278,65551.38500000001,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-09-01,Colorants,Organic Pigments,Bandung WH,12246.869999999999,915679971.6085,71365.27,3,0,0,0,True,False
+Matapel Tradindo Sample,2024-09-01,Colorants,Organic Pigments,Jakarta WH,877.04,79736188.0744,90915.11,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-09-01,Solvents,Solvents,Bandung WH,4198.44,223020167.15879998,53119.77,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-09-01,Solvents,Solvents,Jakarta WH,-50.0,-2215357.0,44307.14,1,1,0,1,False,False
+Matapel Tradindo Sample,2024-09-01,Solvents,Solvents,Surabaya WH,3106.1899999999996,121498104.37509999,39245.045,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-10-01,Specialty Chemicals,Additives,Bandung WH,4759.13,136497654.5386,28681.22,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-10-01,Specialty Chemicals,Additives,Surabaya WH,6605.13,318666983.4227,53265.04,3,0,0,0,False,False
+Matapel Tradindo Sample,2024-10-01,Binders,Industrial Resins,Bandung WH,4558.24,430224559.50079995,94383.92,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-10-01,Binders,Industrial Resins,Jakarta WH,15054.650000000001,913798123.3064001,59424.19,3,0,0,0,True,False
+Matapel Tradindo Sample,2024-10-01,Colorants,Inorganic Pigments,Bandung WH,2640.11,62096355.043400005,26671.629999999997,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-10-01,Colorants,Inorganic Pigments,Jakarta WH,2575.58,143386608.0164,55671.58,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-10-01,Colorants,Inorganic Pigments,Surabaya WH,6337.75,474727642.68999994,74904.76,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-10-01,Colorants,Organic Pigments,Jakarta WH,15420.27,1211915195.1598,75514.83,4,0,0,0,True,False
+Matapel Tradindo Sample,2024-10-01,Solvents,Solvents,Bandung WH,2150.66,98220390.7811,44930.155,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-10-01,Solvents,Solvents,Jakarta WH,4025.96,218178608.7224,54192.94,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-10-01,Solvents,Solvents,Surabaya WH,1419.51,48045942.0435,33846.85,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-11-01,Specialty Chemicals,Additives,Bandung WH,7864.74,302389583.8829,42018.485,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-11-01,Specialty Chemicals,Additives,Jakarta WH,4801.92,184361628.89600003,54110.880000000005,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-11-01,Binders,Industrial Resins,Jakarta WH,5695.79,405075072.8307,71118.33,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-11-01,Binders,Industrial Resins,Surabaya WH,14723.810000000001,977944018.8924,68039.29666666668,3,0,0,0,True,False
+Matapel Tradindo Sample,2024-11-01,Colorants,Inorganic Pigments,Bandung WH,840.88,18585432.476800002,22102.36,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-11-01,Colorants,Inorganic Pigments,Jakarta WH,9102.11,644544523.9645,65715.965,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-11-01,Colorants,Inorganic Pigments,Surabaya WH,35.65,1227618.445,34435.3,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-11-01,Colorants,Organic Pigments,Bandung WH,8730.64,607557564.5496,67981.975,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-11-01,Colorants,Organic Pigments,Jakarta WH,8357.29,668760550.3659,82879.36499999999,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-11-01,Solvents,Solvents,Jakarta WH,4000.13,204511460.0798,47619.79666666667,3,0,0,0,False,False
+Matapel Tradindo Sample,2024-11-01,Solvents,Solvents,Surabaya WH,1525.39,49041990.179400004,32150.46,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-12-01,Specialty Chemicals,Additives,Bandung WH,4737.07,170568958.49889997,36007.27,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-12-01,Specialty Chemicals,Additives,Jakarta WH,9.99,679409.4105,68008.95,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-12-01,Specialty Chemicals,Additives,Surabaya WH,9062.619999999999,353934147.8662,42486.490000000005,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-12-01,Binders,Industrial Resins,Bandung WH,3007.78,275273980.657,91520.65,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-12-01,Binders,Industrial Resins,Jakarta WH,10869.83,583576066.7077999,52398.91,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-12-01,Binders,Industrial Resins,Surabaya WH,6027.62,414746065.912,68807.6,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-12-01,Colorants,Inorganic Pigments,Bandung WH,10236.2,711272852.4350001,65099.295,2,0,0,0,True,False
+Matapel Tradindo Sample,2024-12-01,Colorants,Inorganic Pigments,Jakarta WH,1039.97,22996856.61,22113.0,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-12-01,Colorants,Inorganic Pigments,Surabaya WH,-50.0,-1713201.5,34264.03,1,1,0,1,False,False
+Matapel Tradindo Sample,2024-12-01,Colorants,Organic Pigments,Bandung WH,1804.59,150546314.6649,83424.11,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-12-01,Colorants,Organic Pigments,Surabaya WH,14547.61,1094026414.8315,72211.74333333333,3,0,0,0,True,False
+Matapel Tradindo Sample,2024-12-01,Solvents,Solvents,Bandung WH,203.01,9043831.587,44548.7,1,0,0,0,False,False
+Matapel Tradindo Sample,2024-12-01,Solvents,Solvents,Jakarta WH,3807.4799999999996,200125957.9422,52276.29,2,0,0,0,False,False
+Matapel Tradindo Sample,2024-12-01,Solvents,Solvents,Surabaya WH,2644.8,88843407.50400001,33591.73,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-01-01,Specialty Chemicals,Additives,Bandung WH,14164.76,515682769.04510003,38743.71,3,0,0,0,False,False
+Matapel Tradindo Sample,2025-01-01,Specialty Chemicals,Additives,Surabaya WH,1235.43,91049053.70610002,73698.27,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-01-01,Binders,Industrial Resins,Bandung WH,4824.06,146196515.14200002,30305.7,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-01-01,Binders,Industrial Resins,Jakarta WH,14599.48,1114876574.0574,79197.56333333334,3,0,0,0,True,False
+Matapel Tradindo Sample,2025-01-01,Colorants,Inorganic Pigments,Bandung WH,3410.68,162042702.8478,43432.125,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-01-01,Colorants,Inorganic Pigments,Surabaya WH,9417.95,663893888.917,52083.82,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-01-01,Colorants,Organic Pigments,Bandung WH,4933.35,450293198.589,91275.34,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-01-01,Colorants,Organic Pigments,Jakarta WH,5485.18,339298300.59620005,67773.69,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-01-01,Colorants,Organic Pigments,Surabaya WH,6963.27,521600938.6269,74907.47,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-01-01,Solvents,Solvents,Bandung WH,1842.3500000000001,85121490.1975,45627.84,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-01-01,Solvents,Solvents,Jakarta WH,2187.64,71192477.902,32543.05,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-01-01,Solvents,Solvents,Surabaya WH,2135.2,119733710.072,56076.11,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-02-01,Specialty Chemicals,Additives,Bandung WH,12473.3,446048183.3205999,43764.16333333333,3,0,0,0,False,False
+Matapel Tradindo Sample,2025-02-01,Specialty Chemicals,Additives,Jakarta WH,4189.62,242510581.50539997,57883.67,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-02-01,Binders,Industrial Resins,Bandung WH,9584.630000000001,748184221.2524,80098.69,2,0,0,0,True,False
+Matapel Tradindo Sample,2025-02-01,Binders,Industrial Resins,Jakarta WH,4396.58,138405041.8528,31480.16,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-02-01,Binders,Industrial Resins,Surabaya WH,4782.53,366346245.75289994,76600.93,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-02-01,Colorants,Inorganic Pigments,Bandung WH,1606.27,34827836.8361,21682.43,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-02-01,Colorants,Inorganic Pigments,Jakarta WH,11014.25,722379346.2448001,55534.96666666667,3,0,0,0,True,False
+Matapel Tradindo Sample,2025-02-01,Colorants,Organic Pigments,Bandung WH,8082.74,622979852.8042,77075.33,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-02-01,Colorants,Organic Pigments,Jakarta WH,5278.95,512258380.5734999,97037.93,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-02-01,Colorants,Organic Pigments,Surabaya WH,5148.4400000000005,314572244.98899996,66405.52,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-02-01,Solvents,Solvents,Bandung WH,4921.799999999999,214586602.46279997,42773.384999999995,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-02-01,Solvents,Solvents,Jakarta WH,2588.1,114247535.2324,43862.82,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-03-01,Specialty Chemicals,Additives,Bandung WH,7245.4,315600228.24549997,53008.285,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-03-01,Specialty Chemicals,Additives,Jakarta WH,11255.509999999998,458029070.0764,41675.715,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-03-01,Binders,Industrial Resins,Bandung WH,11774.0,851170379.0799999,72703.42,2,0,0,0,True,False
+Matapel Tradindo Sample,2025-03-01,Binders,Industrial Resins,Jakarta WH,7484.26,382850424.8506,60699.26,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-03-01,Colorants,Inorganic Pigments,Bandung WH,4045.41,112931813.8365,27752.495,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-03-01,Colorants,Inorganic Pigments,Surabaya WH,9268.45,673292137.6545,65405.935,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-03-01,Colorants,Organic Pigments,Bandung WH,11576.02,758528235.1234001,59716.635,2,0,0,0,True,False
+Matapel Tradindo Sample,2025-03-01,Colorants,Organic Pigments,Surabaya WH,6561.91,601886047.909,90489.86499999999,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-03-01,Solvents,Solvents,Bandung WH,3899.14,143495053.0894,41470.05,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-03-01,Solvents,Solvents,Jakarta WH,2533.07,137325121.2644,54212.92,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-03-01,Solvents,Solvents,Surabaya WH,1349.68,59203605.2256,43864.92,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-04-01,Specialty Chemicals,Additives,Bandung WH,10004.07,435198328.47360003,52498.256666666675,3,0,0,0,False,False
+Matapel Tradindo Sample,2025-04-01,Specialty Chemicals,Additives,Jakarta WH,7032.97,250852888.24609998,35668.13,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-04-01,Binders,Industrial Resins,Jakarta WH,14361.97,1086504919.8133,81603.57333333333,3,0,0,0,True,False
+Matapel Tradindo Sample,2025-04-01,Binders,Industrial Resins,Surabaya WH,6444.36,186769217.0916,28981.81,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-04-01,Colorants,Inorganic Pigments,Bandung WH,4607.08,203915944.8614,43592.66,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-04-01,Colorants,Inorganic Pigments,Surabaya WH,9634.56,663671806.4716,51448.045,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-04-01,Colorants,Organic Pigments,Bandung WH,1251.99,104905206.1323,83790.77,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-04-01,Colorants,Organic Pigments,Jakarta WH,5968.42,555703411.7817999,93107.29,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-04-01,Colorants,Organic Pigments,Surabaya WH,12453.210000000001,826404881.0443001,61824.42999999999,2,0,0,0,True,False
+Matapel Tradindo Sample,2025-04-01,Solvents,Solvents,Jakarta WH,4674.71,237794889.1207,50296.96000000001,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-04-01,Solvents,Solvents,Surabaya WH,3472.65,120708427.01300001,39699.93,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-05-01,Specialty Chemicals,Additives,Bandung WH,4469.2,132744103.86569999,50518.305,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-05-01,Specialty Chemicals,Additives,Jakarta WH,11366.23,510143158.5753,47365.759999999995,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-05-01,Binders,Industrial Resins,Jakarta WH,10619.04,487503765.39779997,50847.42,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-05-01,Binders,Industrial Resins,Surabaya WH,9792.67,730001697.7246001,79930.795,2,0,0,0,True,False
+Matapel Tradindo Sample,2025-05-01,Colorants,Inorganic Pigments,Bandung WH,8576.9,644922100.8178,65136.15,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-05-01,Colorants,Inorganic Pigments,Jakarta WH,896.79,29798161.468200002,33227.58,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-05-01,Colorants,Inorganic Pigments,Surabaya WH,3092.88,69590202.07440001,22500.13,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-05-01,Colorants,Organic Pigments,Bandung WH,2169.25,186887091.555,86152.86,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-05-01,Colorants,Organic Pigments,Jakarta WH,18060.79,1371280183.9078,72189.54666666668,3,0,0,0,True,False
+Matapel Tradindo Sample,2025-05-01,Solvents,Solvents,Jakarta WH,9593.79,406337606.25450003,43942.11666666667,3,0,0,0,False,False
+Matapel Tradindo Sample,2025-05-01,Solvents,Solvents,Surabaya WH,-50.0,-2407853.5,48157.07,1,1,0,1,False,False
+Matapel Tradindo Sample,2025-06-01,Specialty Chemicals,Additives,Bandung WH,11761.59,380400756.78910005,43497.54333333334,3,1,0,1,False,False
+Matapel Tradindo Sample,2025-06-01,Specialty Chemicals,Additives,Surabaya WH,3358.63,181694695.5318,54097.86,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-06-01,Binders,Industrial Resins,Bandung WH,6824.59,209824681.1401,30745.39,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-06-01,Binders,Industrial Resins,Jakarta WH,2994.65,266668132.237,89048.18,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-06-01,Binders,Industrial Resins,Surabaya WH,12323.900000000001,914040331.7275002,74480.685,2,0,0,0,True,False
+Matapel Tradindo Sample,2025-06-01,Colorants,Inorganic Pigments,Bandung WH,3960.15,121693635.22839999,39018.505000000005,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-06-01,Colorants,Inorganic Pigments,Jakarta WH,-50.0,-1736486.5000000002,34729.73,1,1,0,1,False,False
+Matapel Tradindo Sample,2025-06-01,Colorants,Inorganic Pigments,Surabaya WH,9515.89,724479533.8574,76133.66,1,0,0,0,True,False
+Matapel Tradindo Sample,2025-06-01,Colorants,Organic Pigments,Bandung WH,2583.92,112373879.78480001,43489.69,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-06-01,Colorants,Organic Pigments,Jakarta WH,1234.09,107195143.0121,86861.69,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-06-01,Colorants,Organic Pigments,Surabaya WH,14279.579999999998,1161569197.0268998,84945.995,2,0,0,0,True,False
+Matapel Tradindo Sample,2025-06-01,Solvents,Solvents,Bandung WH,5175.8099999999995,209130046.5561,44332.68,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-06-01,Solvents,Solvents,Jakarta WH,5092.92,232113180.70560002,46000.990000000005,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-07-01,Specialty Chemicals,Additives,Bandung WH,4828.51,261246919.83080003,54105.08,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-07-01,Specialty Chemicals,Additives,Surabaya WH,11626.15,379777305.3124,45048.90333333334,3,0,0,0,False,False
+Matapel Tradindo Sample,2025-07-01,Binders,Industrial Resins,Bandung WH,7632.88,537777689.8808,70455.41,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-07-01,Binders,Industrial Resins,Surabaya WH,14057.11,755442763.1635001,65063.69666666666,3,0,0,0,True,False
+Matapel Tradindo Sample,2025-07-01,Colorants,Inorganic Pigments,Bandung WH,5664.2,199318970.16399997,38981.74,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-07-01,Colorants,Inorganic Pigments,Jakarta WH,9595.55,788022063.3465,57878.100000000006,2,1,0,1,True,False
+Matapel Tradindo Sample,2025-07-01,Colorants,Organic Pigments,Bandung WH,3881.9,173110224.98,44594.2,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-07-01,Colorants,Organic Pigments,Jakarta WH,5059.63,462696932.223,89042.555,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-07-01,Colorants,Organic Pigments,Surabaya WH,8776.84,652575519.9116001,74351.99,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-07-01,Solvents,Solvents,Bandung WH,5857.009999999999,263978838.354,48170.74,3,0,0,0,False,False
+Matapel Tradindo Sample,2025-07-01,Solvents,Solvents,Jakarta WH,3194.54,102185092.68679999,31987.42,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-08-01,Specialty Chemicals,Additives,Jakarta WH,11090.050000000001,496968636.0292,53522.30333333334,3,0,0,0,False,False
+Matapel Tradindo Sample,2025-08-01,Specialty Chemicals,Additives,Surabaya WH,4613.56,132334801.41280001,28683.88,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-08-01,Binders,Industrial Resins,Bandung WH,18816.42,1062601207.0735002,65458.79,3,0,0,0,True,False
+Matapel Tradindo Sample,2025-08-01,Binders,Industrial Resins,Jakarta WH,3169.14,251936298.6036,79496.74,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-08-01,Colorants,Inorganic Pigments,Jakarta WH,1850.98,102285080.7608,55259.96,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-08-01,Colorants,Inorganic Pigments,Surabaya WH,14352.380000000001,817397210.9256002,44269.83666666667,3,0,0,0,True,False
+Matapel Tradindo Sample,2025-08-01,Colorants,Organic Pigments,Bandung WH,8591.2,671812193.4371,83871.995,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-08-01,Colorants,Organic Pigments,Jakarta WH,4363.25,426527627.5525,97754.57,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-08-01,Colorants,Organic Pigments,Surabaya WH,3613.72,161210289.7064,44610.62,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-08-01,Solvents,Solvents,Bandung WH,4999.3099999999995,213837980.3759,44034.5,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-08-01,Solvents,Solvents,Jakarta WH,1198.15,66702831.688,55671.52,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-08-01,Solvents,Solvents,Surabaya WH,3313.41,114454922.82540001,34542.94,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-09-01,Specialty Chemicals,Additives,Bandung WH,8332.4,346183119.8764,51806.975000000006,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-09-01,Specialty Chemicals,Additives,Jakarta WH,9588.79,401438087.1026,42147.590000000004,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-09-01,Binders,Industrial Resins,Bandung WH,10501.02,830608117.2001001,85165.255,2,0,0,0,True,False
+Matapel Tradindo Sample,2025-09-01,Binders,Industrial Resins,Surabaya WH,11444.93,446062030.9492,50732.845,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-09-01,Colorants,Inorganic Pigments,Bandung WH,12892.23,736604339.8592,50508.695,2,0,0,0,True,False
+Matapel Tradindo Sample,2025-09-01,Colorants,Inorganic Pigments,Jakarta WH,2905.3,137276872.0399,45164.865000000005,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-09-01,Colorants,Organic Pigments,Bandung WH,3877.34,220761072.2862,66722.095,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-09-01,Colorants,Organic Pigments,Surabaya WH,10789.39,866042066.5206001,83578.65,2,0,0,0,True,False
+Matapel Tradindo Sample,2025-09-01,Solvents,Solvents,Bandung WH,3834.1,162576958.89000002,42402.9,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-09-01,Solvents,Solvents,Jakarta WH,2060.38,106926310.26979999,52976.509999999995,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-09-01,Solvents,Solvents,Surabaya WH,3747.91,125962045.5051,33608.61,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-10-01,Specialty Chemicals,Additives,Bandung WH,5124.15,137783166.86699998,26888.98,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-10-01,Specialty Chemicals,Additives,Jakarta WH,12060.720000000001,521486939.2221,45471.815,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-10-01,Specialty Chemicals,Additives,Surabaya WH,2446.53,170451335.3445,69670.65,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-10-01,Binders,Industrial Resins,Bandung WH,23825.34,1402733215.7605999,67889.095,4,0,0,0,True,False
+Matapel Tradindo Sample,2025-10-01,Colorants,Inorganic Pigments,Bandung WH,943.87,31781839.620799996,33671.84,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-10-01,Colorants,Inorganic Pigments,Jakarta WH,12964.710000000001,729131561.8876001,51403.693333333336,3,0,0,0,True,False
+Matapel Tradindo Sample,2025-10-01,Colorants,Organic Pigments,Bandung WH,6686.02,494077178.50680006,72076.225,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-10-01,Colorants,Organic Pigments,Surabaya WH,7755.629999999999,618016089.6364,83942.04000000001,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-10-01,Solvents,Solvents,Bandung WH,5693.82,206234766.8154,36948.405,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-10-01,Solvents,Solvents,Jakarta WH,1010.51,47575386.790699996,47080.57,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-10-01,Solvents,Solvents,Surabaya WH,402.1,22645584.409,56318.29,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-11-01,Specialty Chemicals,Additives,Jakarta WH,19220.58,835922869.5309999,47730.1575,4,0,0,0,True,False
+Matapel Tradindo Sample,2025-11-01,Binders,Industrial Resins,Bandung WH,4077.4,397383363.226,97459.99,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-11-01,Binders,Industrial Resins,Jakarta WH,20339.82,1107711118.617,59606.18333333333,3,0,0,0,True,False
+Matapel Tradindo Sample,2025-11-01,Colorants,Inorganic Pigments,Bandung WH,12317.45,665425416.2329001,50222.12,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-11-01,Colorants,Inorganic Pigments,Jakarta WH,919.88,49049482.6068,53321.61,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-11-01,Colorants,Inorganic Pigments,Surabaya WH,628.64,21192064.180800002,33710.97,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-11-01,Colorants,Organic Pigments,Bandung WH,10794.76,747048930.3127999,61664.975,2,0,0,0,True,False
+Matapel Tradindo Sample,2025-11-01,Colorants,Organic Pigments,Surabaya WH,5421.28,512960113.784,91629.155,2,1,0,1,False,False
+Matapel Tradindo Sample,2025-11-01,Solvents,Solvents,Bandung WH,1767.76,81984271.7224,46377.49,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-11-01,Solvents,Solvents,Jakarta WH,1556.13,68924795.78860001,49190.93,2,1,0,1,False,False
+Matapel Tradindo Sample,2025-11-01,Solvents,Solvents,Surabaya WH,3817.39,128349011.8841,33622.19,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-12-01,Specialty Chemicals,Additives,Bandung WH,5492.64,300767848.6176,54758.34,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-12-01,Specialty Chemicals,Additives,Jakarta WH,7223.1,257984067.843,35716.53,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-12-01,Specialty Chemicals,Additives,Surabaya WH,7387.01,323122114.8155,50249.335,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-12-01,Binders,Industrial Resins,Jakarta WH,14793.32,764652192.1764,65468.043333333335,3,0,0,0,True,False
+Matapel Tradindo Sample,2025-12-01,Binders,Industrial Resins,Surabaya WH,8658.09,599882865.2838001,69285.82,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-12-01,Colorants,Inorganic Pigments,Bandung WH,826.19,45682160.146400005,55292.56,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-12-01,Colorants,Inorganic Pigments,Jakarta WH,5611.389999999999,126494884.12179999,26417.83,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-12-01,Colorants,Inorganic Pigments,Surabaya WH,6499.51,497396776.10850006,76528.35,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-12-01,Colorants,Organic Pigments,Bandung WH,4523.07,252226965.56849998,67914.05,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-12-01,Colorants,Organic Pigments,Jakarta WH,8076.54,627310353.8471999,77670.68,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-12-01,Colorants,Organic Pigments,Surabaya WH,5458.99,526161366.5762,96384.38,1,0,0,0,False,False
+Matapel Tradindo Sample,2025-12-01,Solvents,Solvents,Bandung WH,3113.04,140136638.2962,45198.270000000004,2,0,0,0,False,False
+Matapel Tradindo Sample,2025-12-01,Solvents,Solvents,Jakarta WH,4144.87,138286518.1966,44522.445,2,1,0,1,False,False

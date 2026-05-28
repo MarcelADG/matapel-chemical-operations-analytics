@@ -1,0 +1,132 @@
+company,card_name,product_family,product_line,late_delivery_count,avg_delay_days,max_delay_days
+Matapel Chemicals Sample,Supplier 008,Specialty Chemicals,Additives,6,4.166666666666667,9
+Matapel Chemicals Sample,Supplier 001,Solvents,Solvents,5,4.8,8
+Matapel Chemicals Sample,Supplier 011,Solvents,Solvents,5,4.6,10
+Matapel Chemicals Sample,Supplier 006,Binders,Industrial Resins,5,3.2,7
+Matapel Chemicals Sample,Supplier 007,Colorants,Organic Pigments,4,9.0,12
+Matapel Chemicals Sample,Supplier 006,Colorants,Inorganic Pigments,4,6.0,12
+Matapel Chemicals Sample,Supplier 007,Binders,Industrial Resins,4,6.0,10
+Matapel Chemicals Sample,Supplier 011,Colorants,Organic Pigments,4,5.75,7
+Matapel Chemicals Sample,Supplier 010,Specialty Chemicals,Additives,4,4.25,6
+Matapel Chemicals Sample,Supplier 005,Colorants,Organic Pigments,4,3.75,11
+Matapel Chemicals Sample,Supplier 006,Colorants,Organic Pigments,3,11.333333333333334,13
+Matapel Chemicals Sample,Supplier 003,Specialty Chemicals,Additives,3,9.666666666666666,14
+Matapel Chemicals Sample,Supplier 002,Colorants,Inorganic Pigments,3,9.0,12
+Matapel Chemicals Sample,Supplier 014,Solvents,Solvents,3,6.666666666666667,10
+Matapel Chemicals Sample,Supplier 007,Solvents,Solvents,3,5.666666666666667,11
+Matapel Chemicals Sample,Supplier 009,Specialty Chemicals,Additives,3,5.666666666666667,7
+Matapel Chemicals Sample,Supplier 004,Binders,Industrial Resins,3,5.0,10
+Matapel Chemicals Sample,Supplier 001,Specialty Chemicals,Additives,3,4.666666666666667,6
+Matapel Chemicals Sample,Supplier 015,Colorants,Organic Pigments,3,4.666666666666667,10
+Matapel Chemicals Sample,Supplier 009,Colorants,Inorganic Pigments,3,4.333333333333333,8
+Matapel Chemicals Sample,Supplier 013,Specialty Chemicals,Additives,3,4.333333333333333,6
+Matapel Chemicals Sample,Supplier 005,Specialty Chemicals,Additives,3,4.0,6
+Matapel Chemicals Sample,Supplier 014,Colorants,Inorganic Pigments,3,4.0,9
+Matapel Chemicals Sample,Supplier 015,Solvents,Solvents,3,3.3333333333333335,6
+Matapel Chemicals Sample,Supplier 009,Binders,Industrial Resins,3,1.0,1
+Matapel Chemicals Sample,Supplier 007,Colorants,Inorganic Pigments,2,13.0,17
+Matapel Chemicals Sample,Supplier 008,Colorants,Organic Pigments,2,9.5,15
+Matapel Chemicals Sample,Supplier 012,Specialty Chemicals,Additives,2,9.5,11
+Matapel Chemicals Sample,Supplier 013,Binders,Industrial Resins,2,8.5,14
+Matapel Chemicals Sample,Supplier 015,Colorants,Inorganic Pigments,2,8.5,12
+Matapel Chemicals Sample,Supplier 004,Specialty Chemicals,Additives,2,8.0,11
+Matapel Chemicals Sample,Supplier 006,Solvents,Solvents,2,6.5,8
+Matapel Chemicals Sample,Supplier 008,Binders,Industrial Resins,2,6.5,9
+Matapel Chemicals Sample,Supplier 003,Solvents,Solvents,2,5.5,8
+Matapel Chemicals Sample,Supplier 013,Colorants,Organic Pigments,2,5.0,7
+Matapel Chemicals Sample,Supplier 008,Colorants,Inorganic Pigments,2,4.5,5
+Matapel Chemicals Sample,Supplier 011,Colorants,Inorganic Pigments,2,4.5,8
+Matapel Chemicals Sample,Supplier 012,Binders,Industrial Resins,2,4.5,7
+Matapel Chemicals Sample,Supplier 013,Solvents,Solvents,2,4.0,4
+Matapel Chemicals Sample,Supplier 002,Solvents,Solvents,2,3.5,6
+Matapel Chemicals Sample,Supplier 003,Colorants,Inorganic Pigments,2,3.0,5
+Matapel Chemicals Sample,Supplier 002,Binders,Industrial Resins,2,2.5,3
+Matapel Chemicals Sample,Supplier 002,Specialty Chemicals,Additives,2,2.0,3
+Matapel Chemicals Sample,Supplier 011,Specialty Chemicals,Additives,2,2.0,3
+Matapel Chemicals Sample,Supplier 006,Specialty Chemicals,Additives,2,1.5,2
+Matapel Chemicals Sample,Supplier 003,Colorants,Organic Pigments,1,13.0,13
+Matapel Chemicals Sample,Supplier 001,Colorants,Organic Pigments,1,11.0,11
+Matapel Chemicals Sample,Supplier 010,Binders,Industrial Resins,1,9.0,9
+Matapel Chemicals Sample,Supplier 015,Specialty Chemicals,Additives,1,9.0,9
+Matapel Chemicals Sample,Supplier 012,Colorants,Inorganic Pigments,1,8.0,8
+Matapel Chemicals Sample,Supplier 012,Solvents,Solvents,1,8.0,8
+Matapel Chemicals Sample,Supplier 005,Solvents,Solvents,1,7.0,7
+Matapel Chemicals Sample,Supplier 013,Colorants,Inorganic Pigments,1,7.0,7
+Matapel Chemicals Sample,Supplier 014,Binders,Industrial Resins,1,7.0,7
+Matapel Chemicals Sample,Supplier 008,Solvents,Solvents,1,6.0,6
+Matapel Chemicals Sample,Supplier 014,Specialty Chemicals,Additives,1,6.0,6
+Matapel Chemicals Sample,Supplier 001,Colorants,Inorganic Pigments,1,5.0,5
+Matapel Chemicals Sample,Supplier 004,Colorants,Inorganic Pigments,1,5.0,5
+Matapel Chemicals Sample,Supplier 005,Binders,Industrial Resins,1,5.0,5
+Matapel Chemicals Sample,Supplier 009,Colorants,Organic Pigments,1,4.0,4
+Matapel Chemicals Sample,Supplier 010,Solvents,Solvents,1,4.0,4
+Matapel Chemicals Sample,Supplier 011,Binders,Industrial Resins,1,3.0,3
+Matapel Chemicals Sample,Supplier 012,Colorants,Organic Pigments,1,3.0,3
+Matapel Chemicals Sample,Supplier 015,Binders,Industrial Resins,1,2.0,2
+Matapel Chemicals Sample,Supplier 004,Colorants,Organic Pigments,1,1.0,1
+Matapel Chemicals Sample,Supplier 009,Solvents,Solvents,1,1.0,1
+Matapel Chemicals Sample,Supplier 010,Colorants,Inorganic Pigments,1,1.0,1
+Matapel Chemicals Sample,Supplier 010,Colorants,Organic Pigments,1,1.0,1
+Matapel Tradindo Sample,Supplier 004,Specialty Chemicals,Additives,6,6.333333333333333,8
+Matapel Tradindo Sample,Supplier 008,Solvents,Solvents,6,5.0,11
+Matapel Tradindo Sample,Supplier 003,Solvents,Solvents,5,5.6,11
+Matapel Tradindo Sample,Supplier 006,Colorants,Organic Pigments,4,8.5,12
+Matapel Tradindo Sample,Supplier 001,Colorants,Organic Pigments,4,6.75,10
+Matapel Tradindo Sample,Supplier 006,Binders,Industrial Resins,4,5.5,13
+Matapel Tradindo Sample,Supplier 009,Specialty Chemicals,Additives,4,5.25,10
+Matapel Tradindo Sample,Supplier 015,Specialty Chemicals,Additives,3,9.0,13
+Matapel Tradindo Sample,Supplier 004,Binders,Industrial Resins,3,8.333333333333334,12
+Matapel Tradindo Sample,Supplier 015,Colorants,Organic Pigments,3,7.333333333333333,13
+Matapel Tradindo Sample,Supplier 009,Binders,Industrial Resins,3,6.333333333333333,11
+Matapel Tradindo Sample,Supplier 010,Colorants,Inorganic Pigments,3,5.666666666666667,11
+Matapel Tradindo Sample,Supplier 011,Specialty Chemicals,Additives,3,5.666666666666667,7
+Matapel Tradindo Sample,Supplier 005,Colorants,Organic Pigments,3,5.333333333333333,7
+Matapel Tradindo Sample,Supplier 013,Solvents,Solvents,3,4.666666666666667,9
+Matapel Tradindo Sample,Supplier 004,Colorants,Inorganic Pigments,3,4.333333333333333,6
+Matapel Tradindo Sample,Supplier 005,Specialty Chemicals,Additives,3,4.333333333333333,10
+Matapel Tradindo Sample,Supplier 005,Binders,Industrial Resins,3,4.0,8
+Matapel Tradindo Sample,Supplier 005,Solvents,Solvents,3,3.6666666666666665,6
+Matapel Tradindo Sample,Supplier 012,Binders,Industrial Resins,3,3.0,6
+Matapel Tradindo Sample,Supplier 003,Colorants,Inorganic Pigments,3,2.6666666666666665,5
+Matapel Tradindo Sample,Supplier 011,Binders,Industrial Resins,3,2.6666666666666665,4
+Matapel Tradindo Sample,Supplier 007,Solvents,Solvents,3,2.3333333333333335,4
+Matapel Tradindo Sample,Supplier 007,Colorants,Inorganic Pigments,3,2.0,4
+Matapel Tradindo Sample,Supplier 001,Colorants,Inorganic Pigments,3,1.6666666666666667,2
+Matapel Tradindo Sample,Supplier 008,Binders,Industrial Resins,2,13.5,19
+Matapel Tradindo Sample,Supplier 012,Colorants,Inorganic Pigments,2,11.5,13
+Matapel Tradindo Sample,Supplier 014,Colorants,Inorganic Pigments,2,9.5,12
+Matapel Tradindo Sample,Supplier 009,Colorants,Organic Pigments,2,8.5,9
+Matapel Tradindo Sample,Supplier 013,Colorants,Organic Pigments,2,8.5,12
+Matapel Tradindo Sample,Supplier 010,Binders,Industrial Resins,2,8.0,11
+Matapel Tradindo Sample,Supplier 013,Colorants,Inorganic Pigments,2,7.5,9
+Matapel Tradindo Sample,Supplier 012,Specialty Chemicals,Additives,2,6.5,8
+Matapel Tradindo Sample,Supplier 005,Colorants,Inorganic Pigments,2,5.0,6
+Matapel Tradindo Sample,Supplier 014,Solvents,Solvents,2,5.0,7
+Matapel Tradindo Sample,Supplier 002,Specialty Chemicals,Additives,2,4.5,5
+Matapel Tradindo Sample,Supplier 004,Colorants,Organic Pigments,2,4.5,8
+Matapel Tradindo Sample,Supplier 007,Specialty Chemicals,Additives,2,3.5,5
+Matapel Tradindo Sample,Supplier 014,Colorants,Organic Pigments,2,3.5,6
+Matapel Tradindo Sample,Supplier 010,Colorants,Organic Pigments,2,3.0,5
+Matapel Tradindo Sample,Supplier 001,Specialty Chemicals,Additives,2,2.0,3
+Matapel Tradindo Sample,Supplier 003,Binders,Industrial Resins,2,2.0,2
+Matapel Tradindo Sample,Supplier 015,Colorants,Inorganic Pigments,2,1.5,2
+Matapel Tradindo Sample,Supplier 004,Solvents,Solvents,1,12.0,12
+Matapel Tradindo Sample,Supplier 003,Specialty Chemicals,Additives,1,11.0,11
+Matapel Tradindo Sample,Supplier 013,Specialty Chemicals,Additives,1,10.0,10
+Matapel Tradindo Sample,Supplier 007,Colorants,Organic Pigments,1,9.0,9
+Matapel Tradindo Sample,Supplier 011,Colorants,Organic Pigments,1,9.0,9
+Matapel Tradindo Sample,Supplier 007,Binders,Industrial Resins,1,6.0,6
+Matapel Tradindo Sample,Supplier 011,Solvents,Solvents,1,6.0,6
+Matapel Tradindo Sample,Supplier 001,Binders,Industrial Resins,1,5.0,5
+Matapel Tradindo Sample,Supplier 008,Colorants,Inorganic Pigments,1,5.0,5
+Matapel Tradindo Sample,Supplier 009,Colorants,Inorganic Pigments,1,5.0,5
+Matapel Tradindo Sample,Supplier 009,Solvents,Solvents,1,5.0,5
+Matapel Tradindo Sample,Supplier 002,Solvents,Solvents,1,4.0,4
+Matapel Tradindo Sample,Supplier 015,Binders,Industrial Resins,1,4.0,4
+Matapel Tradindo Sample,Supplier 008,Colorants,Organic Pigments,1,3.0,3
+Matapel Tradindo Sample,Supplier 012,Solvents,Solvents,1,3.0,3
+Matapel Tradindo Sample,Supplier 014,Specialty Chemicals,Additives,1,3.0,3
+Matapel Tradindo Sample,Supplier 002,Colorants,Inorganic Pigments,1,2.0,2
+Matapel Tradindo Sample,Supplier 003,Colorants,Organic Pigments,1,2.0,2
+Matapel Tradindo Sample,Supplier 006,Specialty Chemicals,Additives,1,2.0,2
+Matapel Tradindo Sample,Supplier 015,Solvents,Solvents,1,2.0,2

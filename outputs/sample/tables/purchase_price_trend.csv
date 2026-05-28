@@ -1,0 +1,180 @@
+company,month,product_family,product_line,purchase_quantity,avg_purchase_price_usd,po_lines
+Matapel Chemicals Sample,2023-01-01,Specialty Chemicals,Additives,10603.83,3.2964,4
+Matapel Chemicals Sample,2023-03-01,Specialty Chemicals,Additives,5685.700000000001,2.5097500000000004,2
+Matapel Chemicals Sample,2023-05-01,Specialty Chemicals,Additives,9649.3,3.3414249999999996,4
+Matapel Chemicals Sample,2023-07-01,Specialty Chemicals,Additives,7905.27,3.2452,3
+Matapel Chemicals Sample,2023-09-01,Specialty Chemicals,Additives,11127.24,3.307375,4
+Matapel Chemicals Sample,2023-11-01,Specialty Chemicals,Additives,8167.2,2.786766666666667,3
+Matapel Chemicals Sample,2024-01-01,Specialty Chemicals,Additives,9265.14,3.4449,4
+Matapel Chemicals Sample,2024-03-01,Specialty Chemicals,Additives,11957.380000000001,3.53055,4
+Matapel Chemicals Sample,2024-05-01,Specialty Chemicals,Additives,2200.79,4.6705,1
+Matapel Chemicals Sample,2024-07-01,Specialty Chemicals,Additives,4260.11,2.444,2
+Matapel Chemicals Sample,2024-09-01,Specialty Chemicals,Additives,9533.380000000001,3.3590750000000003,4
+Matapel Chemicals Sample,2024-11-01,Specialty Chemicals,Additives,8912.66,2.8349333333333333,3
+Matapel Chemicals Sample,2025-01-01,Specialty Chemicals,Additives,7356.71,3.33885,4
+Matapel Chemicals Sample,2025-03-01,Specialty Chemicals,Additives,6877.7,4.070366666666667,3
+Matapel Chemicals Sample,2025-05-01,Specialty Chemicals,Additives,10234.66,3.31505,4
+Matapel Chemicals Sample,2025-07-01,Specialty Chemicals,Additives,10466.82,3.43805,4
+Matapel Chemicals Sample,2025-09-01,Specialty Chemicals,Additives,7579.57,3.442633333333333,3
+Matapel Chemicals Sample,2025-11-01,Specialty Chemicals,Additives,4044.34,2.6071,2
+Matapel Chemicals Sample,2023-01-01,Binders,Industrial Resins,10735.3,3.16055,4
+Matapel Chemicals Sample,2023-03-01,Binders,Industrial Resins,9530.05,3.130625,4
+Matapel Chemicals Sample,2023-05-01,Binders,Industrial Resins,6653.13,3.686866666666667,3
+Matapel Chemicals Sample,2023-07-01,Binders,Industrial Resins,6944.389999999999,3.3773,3
+Matapel Chemicals Sample,2023-09-01,Binders,Industrial Resins,9526.33,3.4443333333333332,3
+Matapel Chemicals Sample,2023-11-01,Binders,Industrial Resins,8165.790000000001,2.3792333333333335,3
+Matapel Chemicals Sample,2024-01-01,Binders,Industrial Resins,5557.64,2.1695,2
+Matapel Chemicals Sample,2024-03-01,Binders,Industrial Resins,4223.33,2.176,2
+Matapel Chemicals Sample,2024-05-01,Binders,Industrial Resins,6896.8099999999995,3.6964,3
+Matapel Chemicals Sample,2024-07-01,Binders,Industrial Resins,9036.58,3.2329499999999998,4
+Matapel Chemicals Sample,2024-09-01,Binders,Industrial Resins,7361.4400000000005,3.610466666666667,3
+Matapel Chemicals Sample,2024-11-01,Binders,Industrial Resins,7197.33,3.3516,3
+Matapel Chemicals Sample,2025-01-01,Binders,Industrial Resins,8432.83,3.174875,4
+Matapel Chemicals Sample,2025-03-01,Binders,Industrial Resins,6379.51,3.98795,2
+Matapel Chemicals Sample,2025-05-01,Binders,Industrial Resins,5824.63,4.08845,2
+Matapel Chemicals Sample,2025-07-01,Binders,Industrial Resins,6070.04,2.07025,2
+Matapel Chemicals Sample,2025-09-01,Binders,Industrial Resins,11385.099999999999,3.17755,4
+Matapel Chemicals Sample,2025-11-01,Binders,Industrial Resins,7678.76,2.4892000000000003,2
+Matapel Chemicals Sample,2023-01-01,Colorants,Inorganic Pigments,7381.16,3.7048666666666663,3
+Matapel Chemicals Sample,2023-03-01,Colorants,Inorganic Pigments,10232.53,3.5198666666666667,3
+Matapel Chemicals Sample,2023-05-01,Colorants,Inorganic Pigments,3007.77,4.71985,2
+Matapel Chemicals Sample,2023-07-01,Colorants,Inorganic Pigments,9054.27,3.713766666666667,3
+Matapel Chemicals Sample,2023-09-01,Colorants,Inorganic Pigments,7797.099999999999,4.0134,4
+Matapel Chemicals Sample,2023-11-01,Colorants,Inorganic Pigments,6411.389999999999,3.1300999999999997,2
+Matapel Chemicals Sample,2024-01-01,Colorants,Inorganic Pigments,7474.93,3.7699,3
+Matapel Chemicals Sample,2024-03-01,Colorants,Inorganic Pigments,5340.0599999999995,5.244,2
+Matapel Chemicals Sample,2024-05-01,Colorants,Inorganic Pigments,4511.67,2.92815,2
+Matapel Chemicals Sample,2024-07-01,Colorants,Inorganic Pigments,10556.72,4.0604,4
+Matapel Chemicals Sample,2024-09-01,Colorants,Inorganic Pigments,9990.11,3.79605,4
+Matapel Chemicals Sample,2024-11-01,Colorants,Inorganic Pigments,8364.69,3.8554500000000003,4
+Matapel Chemicals Sample,2025-01-01,Colorants,Inorganic Pigments,11804.61,4.05905,4
+Matapel Chemicals Sample,2025-03-01,Colorants,Inorganic Pigments,9314.6,4.0632,4
+Matapel Chemicals Sample,2025-05-01,Colorants,Inorganic Pigments,5216.93,3.04465,2
+Matapel Chemicals Sample,2025-07-01,Colorants,Inorganic Pigments,7162.95,3.2961000000000005,3
+Matapel Chemicals Sample,2025-09-01,Colorants,Inorganic Pigments,6868.9,3.8652249999999997,4
+Matapel Chemicals Sample,2025-11-01,Colorants,Inorganic Pigments,10484.17,4.857433333333333,3
+Matapel Chemicals Sample,2023-01-01,Colorants,Organic Pigments,6614.36,3.8459333333333334,3
+Matapel Chemicals Sample,2023-03-01,Colorants,Organic Pigments,6054.2699999999995,3.9600333333333335,3
+Matapel Chemicals Sample,2023-05-01,Colorants,Organic Pigments,10422.15,3.992566666666667,3
+Matapel Chemicals Sample,2023-07-01,Colorants,Organic Pigments,7082.429999999999,4.119266666666666,3
+Matapel Chemicals Sample,2023-09-01,Colorants,Organic Pigments,11393.54,4.204525,4
+Matapel Chemicals Sample,2023-11-01,Colorants,Organic Pigments,11451.439999999999,4.115024999999999,4
+Matapel Chemicals Sample,2024-01-01,Colorants,Organic Pigments,11337.529999999999,4.18145,4
+Matapel Chemicals Sample,2024-03-01,Colorants,Organic Pigments,1593.05,3.2744,1
+Matapel Chemicals Sample,2024-05-01,Colorants,Organic Pigments,8728.9,3.9510666666666663,3
+Matapel Chemicals Sample,2024-07-01,Colorants,Organic Pigments,7416.049999999999,4.48175,2
+Matapel Chemicals Sample,2024-09-01,Colorants,Organic Pigments,6809.849999999999,4.421433333333333,3
+Matapel Chemicals Sample,2024-11-01,Colorants,Organic Pigments,1986.06,3.8521,1
+Matapel Chemicals Sample,2025-01-01,Colorants,Organic Pigments,9606.77,4.186525,4
+Matapel Chemicals Sample,2025-03-01,Colorants,Organic Pigments,6281.4,4.130366666666666,3
+Matapel Chemicals Sample,2025-05-01,Colorants,Organic Pigments,4418.2,3.9819,2
+Matapel Chemicals Sample,2025-09-01,Colorants,Organic Pigments,12578.74,4.155925,4
+Matapel Chemicals Sample,2025-11-01,Colorants,Organic Pigments,9295.41,4.443533333333334,3
+Matapel Chemicals Sample,2023-01-01,Solvents,Solvents,6270.09,2.8628,3
+Matapel Chemicals Sample,2023-03-01,Solvents,Solvents,7275.6900000000005,3.056366666666667,3
+Matapel Chemicals Sample,2023-05-01,Solvents,Solvents,8719.41,3.4509749999999997,4
+Matapel Chemicals Sample,2023-07-01,Solvents,Solvents,7249.67,3.418433333333333,3
+Matapel Chemicals Sample,2023-09-01,Solvents,Solvents,7046.34,4.05065,2
+Matapel Chemicals Sample,2023-11-01,Solvents,Solvents,7510.64,3.56285,4
+Matapel Chemicals Sample,2024-01-01,Solvents,Solvents,6480.22,3.4461666666666666,3
+Matapel Chemicals Sample,2024-03-01,Solvents,Solvents,5432.63,2.87615,2
+Matapel Chemicals Sample,2024-05-01,Solvents,Solvents,4792.209999999999,3.37685,2
+Matapel Chemicals Sample,2024-07-01,Solvents,Solvents,7807.639999999999,3.5751000000000004,3
+Matapel Chemicals Sample,2024-09-01,Solvents,Solvents,7675.81,3.8472333333333335,3
+Matapel Chemicals Sample,2024-11-01,Solvents,Solvents,9363.68,3.4371750000000003,4
+Matapel Chemicals Sample,2025-01-01,Solvents,Solvents,11857.470000000001,3.342375,4
+Matapel Chemicals Sample,2025-03-01,Solvents,Solvents,5827.969999999999,4.078,2
+Matapel Chemicals Sample,2025-05-01,Solvents,Solvents,10761.46,3.43835,4
+Matapel Chemicals Sample,2025-07-01,Solvents,Solvents,7501.09,4.074233333333333,3
+Matapel Chemicals Sample,2025-09-01,Solvents,Solvents,3570.71,3.0479000000000003,2
+Matapel Chemicals Sample,2025-11-01,Solvents,Solvents,6570.99,2.9798999999999998,2
+Matapel Tradindo Sample,2023-01-01,Specialty Chemicals,Additives,9005.1,2.5924333333333336,3
+Matapel Tradindo Sample,2023-03-01,Specialty Chemicals,Additives,12901.02,2.7348749999999997,4
+Matapel Tradindo Sample,2023-05-01,Specialty Chemicals,Additives,9233.24,2.5248666666666666,3
+Matapel Tradindo Sample,2023-07-01,Specialty Chemicals,Additives,6958.299999999999,2.1879,3
+Matapel Tradindo Sample,2023-09-01,Specialty Chemicals,Additives,8983.22,2.289566666666667,3
+Matapel Tradindo Sample,2023-11-01,Specialty Chemicals,Additives,9803.73,2.7137333333333333,3
+Matapel Tradindo Sample,2024-01-01,Specialty Chemicals,Additives,7551.82,2.6262000000000003,3
+Matapel Tradindo Sample,2024-03-01,Specialty Chemicals,Additives,5017.7,1.8407499999999999,2
+Matapel Tradindo Sample,2024-05-01,Specialty Chemicals,Additives,3194.6,2.4688,2
+Matapel Tradindo Sample,2024-07-01,Specialty Chemicals,Additives,7929.39,2.2958666666666665,3
+Matapel Tradindo Sample,2024-09-01,Specialty Chemicals,Additives,9720.630000000001,3.008466666666667,3
+Matapel Tradindo Sample,2024-11-01,Specialty Chemicals,Additives,7980.860000000001,2.3196,3
+Matapel Tradindo Sample,2025-01-01,Specialty Chemicals,Additives,7055.85,2.6368000000000005,3
+Matapel Tradindo Sample,2025-03-01,Specialty Chemicals,Additives,7556.74,3.0525,3
+Matapel Tradindo Sample,2025-05-01,Specialty Chemicals,Additives,8191.29,2.981833333333333,3
+Matapel Tradindo Sample,2025-07-01,Specialty Chemicals,Additives,4730.06,2.4154999999999998,2
+Matapel Tradindo Sample,2025-09-01,Specialty Chemicals,Additives,11401.93,2.6814,4
+Matapel Tradindo Sample,2025-11-01,Specialty Chemicals,Additives,8002.74,2.825066666666667,3
+Matapel Tradindo Sample,2023-01-01,Binders,Industrial Resins,6342.37,4.068,2
+Matapel Tradindo Sample,2023-03-01,Binders,Industrial Resins,4884.27,3.783833333333334,3
+Matapel Tradindo Sample,2023-05-01,Binders,Industrial Resins,3178.79,4.4016,1
+Matapel Tradindo Sample,2023-07-01,Binders,Industrial Resins,6019.26,4.216749999999999,2
+Matapel Tradindo Sample,2023-09-01,Binders,Industrial Resins,7582.129999999999,4.6964500000000005,2
+Matapel Tradindo Sample,2023-11-01,Binders,Industrial Resins,5387.879999999999,4.6862,2
+Matapel Tradindo Sample,2024-01-01,Binders,Industrial Resins,4740.43,4.175,2
+Matapel Tradindo Sample,2024-03-01,Binders,Industrial Resins,8713.45,3.772066666666667,3
+Matapel Tradindo Sample,2024-05-01,Binders,Industrial Resins,9278.380000000001,3.896433333333333,3
+Matapel Tradindo Sample,2024-07-01,Binders,Industrial Resins,8654.33,3.8184,4
+Matapel Tradindo Sample,2024-09-01,Binders,Industrial Resins,6799.26,3.9539999999999997,4
+Matapel Tradindo Sample,2024-11-01,Binders,Industrial Resins,8451.24,3.5448,3
+Matapel Tradindo Sample,2025-01-01,Binders,Industrial Resins,12330.92,3.6875,4
+Matapel Tradindo Sample,2025-03-01,Binders,Industrial Resins,9102.59,4.060625,4
+Matapel Tradindo Sample,2025-05-01,Binders,Industrial Resins,4648.17,4.486033333333332,3
+Matapel Tradindo Sample,2025-07-01,Binders,Industrial Resins,3078.59,4.1775,1
+Matapel Tradindo Sample,2025-09-01,Binders,Industrial Resins,7848.219999999999,3.736,4
+Matapel Tradindo Sample,2025-11-01,Binders,Industrial Resins,4142.68,3.899233333333333,3
+Matapel Tradindo Sample,2023-01-01,Colorants,Inorganic Pigments,9604.380000000001,2.67595,4
+Matapel Tradindo Sample,2023-03-01,Colorants,Inorganic Pigments,7483.79,2.6544666666666665,3
+Matapel Tradindo Sample,2023-05-01,Colorants,Inorganic Pigments,7169.8099999999995,2.9945333333333335,3
+Matapel Tradindo Sample,2023-07-01,Colorants,Inorganic Pigments,9256.93,2.794925,4
+Matapel Tradindo Sample,2023-09-01,Colorants,Inorganic Pigments,6355.43,2.0073333333333334,3
+Matapel Tradindo Sample,2023-11-01,Colorants,Inorganic Pigments,9235.529999999999,2.475766666666667,3
+Matapel Tradindo Sample,2024-01-01,Colorants,Inorganic Pigments,4478.379999999999,2.75645,2
+Matapel Tradindo Sample,2024-03-01,Colorants,Inorganic Pigments,4144.25,2.5401333333333334,3
+Matapel Tradindo Sample,2024-05-01,Colorants,Inorganic Pigments,4257.05,2.2043,2
+Matapel Tradindo Sample,2024-07-01,Colorants,Inorganic Pigments,7511.11,2.160933333333333,3
+Matapel Tradindo Sample,2024-09-01,Colorants,Inorganic Pigments,7212.4400000000005,2.676325,4
+Matapel Tradindo Sample,2024-11-01,Colorants,Inorganic Pigments,4812.51,2.84055,2
+Matapel Tradindo Sample,2025-01-01,Colorants,Inorganic Pigments,8238.369999999999,2.0317666666666665,3
+Matapel Tradindo Sample,2025-03-01,Colorants,Inorganic Pigments,6649.08,2.6896,3
+Matapel Tradindo Sample,2025-05-01,Colorants,Inorganic Pigments,9481.67,2.84025,4
+Matapel Tradindo Sample,2025-07-01,Colorants,Inorganic Pigments,6653.0,2.034066666666667,3
+Matapel Tradindo Sample,2025-09-01,Colorants,Inorganic Pigments,12367.57,2.658275,4
+Matapel Tradindo Sample,2025-11-01,Colorants,Inorganic Pigments,10640.84,2.75795,4
+Matapel Tradindo Sample,2023-01-01,Colorants,Organic Pigments,5713.48,4.531549999999999,2
+Matapel Tradindo Sample,2023-03-01,Colorants,Organic Pigments,3491.19,4.73935,2
+Matapel Tradindo Sample,2023-05-01,Colorants,Organic Pigments,4483.219999999999,5.2216000000000005,2
+Matapel Tradindo Sample,2023-07-01,Colorants,Organic Pigments,8233.85,4.596133333333333,3
+Matapel Tradindo Sample,2023-09-01,Colorants,Organic Pigments,7404.64,4.364775,4
+Matapel Tradindo Sample,2023-11-01,Colorants,Organic Pigments,5958.21,5.22405,2
+Matapel Tradindo Sample,2024-01-01,Colorants,Organic Pigments,7700.59,4.207533333333333,3
+Matapel Tradindo Sample,2024-03-01,Colorants,Organic Pigments,8964.01,3.8414333333333333,3
+Matapel Tradindo Sample,2024-05-01,Colorants,Organic Pigments,7909.53,4.29445,4
+Matapel Tradindo Sample,2024-07-01,Colorants,Organic Pigments,5166.56,3.7291999999999996,2
+Matapel Tradindo Sample,2024-09-01,Colorants,Organic Pigments,5875.6,4.197266666666667,3
+Matapel Tradindo Sample,2024-11-01,Colorants,Organic Pigments,9749.51,5.2558,3
+Matapel Tradindo Sample,2025-01-01,Colorants,Organic Pigments,6911.42,5.10225,2
+Matapel Tradindo Sample,2025-03-01,Colorants,Organic Pigments,9615.32,4.515000000000001,4
+Matapel Tradindo Sample,2025-05-01,Colorants,Organic Pigments,6669.07,4.176200000000001,3
+Matapel Tradindo Sample,2025-07-01,Colorants,Organic Pigments,9217.53,4.40305,4
+Matapel Tradindo Sample,2025-09-01,Colorants,Organic Pigments,6745.13,3.66545,2
+Matapel Tradindo Sample,2025-11-01,Colorants,Organic Pigments,8144.6900000000005,4.889433333333334,3
+Matapel Tradindo Sample,2023-01-01,Solvents,Solvents,5591.62,2.5749999999999997,3
+Matapel Tradindo Sample,2023-03-01,Solvents,Solvents,11482.23,2.46015,4
+Matapel Tradindo Sample,2023-05-01,Solvents,Solvents,4999.55,2.926,2
+Matapel Tradindo Sample,2023-07-01,Solvents,Solvents,4193.25,2.8314500000000002,2
+Matapel Tradindo Sample,2023-09-01,Solvents,Solvents,8504.18,2.5223666666666666,3
+Matapel Tradindo Sample,2023-11-01,Solvents,Solvents,11768.27,2.496375,4
+Matapel Tradindo Sample,2024-01-01,Solvents,Solvents,8351.1,2.555425,4
+Matapel Tradindo Sample,2024-03-01,Solvents,Solvents,9379.05,2.545375,4
+Matapel Tradindo Sample,2024-05-01,Solvents,Solvents,6263.16,2.570925,4
+Matapel Tradindo Sample,2024-07-01,Solvents,Solvents,5931.16,2.3118,3
+Matapel Tradindo Sample,2024-09-01,Solvents,Solvents,8458.45,2.541166666666667,3
+Matapel Tradindo Sample,2024-11-01,Solvents,Solvents,6026.41,2.62675,2
+Matapel Tradindo Sample,2025-01-01,Solvents,Solvents,5464.99,2.4765,3
+Matapel Tradindo Sample,2025-03-01,Solvents,Solvents,8110.29,2.688333333333333,3
+Matapel Tradindo Sample,2025-05-01,Solvents,Solvents,4404.62,2.23805,2
+Matapel Tradindo Sample,2025-07-01,Solvents,Solvents,10584.78,2.57255,4
+Matapel Tradindo Sample,2025-09-01,Solvents,Solvents,9301.789999999999,2.5765333333333333,3
+Matapel Tradindo Sample,2025-11-01,Solvents,Solvents,11253.91,2.5477,4
