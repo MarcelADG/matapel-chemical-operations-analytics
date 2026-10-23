@@ -1,0 +1,5 @@
+flow,reason,export_rows
+Customer delivery,after_cutoff,6
+Supplier receipt,after_cutoff,6
+Supplier receipt,missing_or_invalid_date,1
+Supplier receipt,receipt_before_order,1

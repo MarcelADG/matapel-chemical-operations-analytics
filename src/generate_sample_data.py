@@ -1,4 +1,4 @@
-"""Generate anonymized/synthetic sample workbooks with the raw SAP schemas."""
+"""Generate fully fictional sample workbooks from seeded distributions; no private exports are read."""
 
 from __future__ import annotations
 

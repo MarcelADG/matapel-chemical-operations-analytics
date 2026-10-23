@@ -1,4 +1,10 @@
-# Matapel Chemicals Operations Analytics: Sales, Demand Forecasting, Inventory, AR/AP, and Working Capital
+# Matapel Chemicals Operations Analytics
+
+This public portfolio uses fully fictional, seeded workbooks to demonstrate sales, demand forecasting, purchasing, inventory movement and receivables/payables analysis. Public example metrics, charts and workbook cells are synthetic. Actual source records, company totals and results from private retrospective analyses stay local.
+
+The project demonstrates reproducible cleaning, explicit data grains, forecast baselines/fallbacks, reconciliation and model limitations. Private historical reconstructions and validation reports remain integrated in the local project and are excluded from publication.
+
+See [synthetic-data provenance](docs/SYNTHETIC_DATA.md). Synthetic demonstrations do not establish company operating results, forecast accuracy on real records, inventory savings or employer adoption.
 
 Python, SQL, and Excel analytics for SAP-style operations exports across the `MPC` and `MPT` company codes.
 
@@ -16,11 +22,26 @@ The public repository uses synthetic sample data only. The sample files mirror t
 - Which customer and supplier balances create AR/AP and cash-flow risk?
 - What chemical product demand should purchasing review for the next three months?
 
+## Opening Inventory and Service Review
+
+The [supply and service case study](outputs/sample/supply_service/README.md) adds an independently fictional opening-stock roll-forward, recorded-promise delivery review, source-line and return controls, and order-cluster bootstrap intervals. Public outputs are aggregates only. The scenario is retrospective and does not claim internship-era delivery or actual business improvements.
+
+![Synthetic recorded-promise service comparison](outputs/sample/supply_service/service_lateness.svg)
+
+Run the focused demonstration without company files:
+
+```bash
+python -m src.supply_service_demo
+python -m unittest discover -s tests -v
+```
+
+See the [definitions and source controls](docs/SUPPLY_SERVICE_METHODS.md) and [synthetic provenance](outputs/sample/supply_service/provenance.json). The original sample workbook and forecasting workflow remains available below.
+
 ## Confidentiality & Reproducibility
 
-Private SAP exports are excluded from the public repository. Local real-data workbooks belong in `data/raw/`, which is ignored by git. Private run outputs are written only to `outputs/private/`, which is also ignored.
+Private SAP exports are excluded from the public repository. Local real-data workbooks belong in `data/raw/`, which is ignored by git. The original pipeline writes private outputs to `outputs/private/`; integrated historical-operations and demand-validation outputs live in `analysis/`. Both private trees are ignored by Git.
 
-The repository includes synthetic sample workbooks in `data/sample/`. These files use anonymized companies, customers, suppliers, products, and transactions while preserving the same workbook names, sheet names, and columns as the private exports. Public sample outputs are written to `outputs/sample/` and can be committed because they are created only from synthetic data.
+The repository includes synthetic sample workbooks in `data/sample/`. These files contain fictional companies, customers, suppliers, products and transactions generated independently from fixed distributions. Workbook names, sheet names and columns provide schema examples; records and amounts are not resampled or renamed company data. Public sample outputs are written to `outputs/sample/` and can be committed because they are created only from synthetic data.
 
 ## Dataset Description
 
@@ -46,6 +67,7 @@ matapel-chemical-operations-analytics/
   outputs/
     sample/       # tracked sample-data CSV, PNG, and Excel outputs
     private/      # ignored private-data CSV, PNG, and Excel outputs
+  analysis/        # private historical operations and demand validation
   reports/
   sql/
   src/

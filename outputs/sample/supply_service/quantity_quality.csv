@@ -1,0 +1,3 @@
+flow,source_rows,return_identity_exception_rows
+Customer delivery,166,0
+Supplier receipt,90,1

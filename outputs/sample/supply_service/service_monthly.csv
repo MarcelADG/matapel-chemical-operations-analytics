@@ -1,0 +1,5 @@
+flow,month,eligible_export_rows,order_clusters,late_export_rows,late_share,order_cluster_bootstrap_low,order_cluster_bootstrap_high,lead_days_median,lead_days_p90
+Customer delivery,2024-07,80,40,29,0.3625,0.25,0.475,8.0,14.0
+Customer delivery,2024-08,80,40,29,0.3625,0.275,0.45,8.5,14.0
+Supplier receipt,2024-07,42,20,15,0.35714285714285715,0.1956521739130435,0.525,19.5,32.0
+Supplier receipt,2024-08,40,20,15,0.375,0.275,0.475,17.5,33.2

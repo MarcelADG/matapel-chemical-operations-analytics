@@ -427,7 +427,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser.add_argument(
         "--sample",
         action="store_true",
-        help="Use anonymized/synthetic files from data/sample/ instead of confidential data/raw/ exports.",
+        help="Use fully fictional seeded files from data/sample/ instead of confidential data/raw/ exports.",
     )
     return parser.parse_args(argv)
 

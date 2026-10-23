@@ -1,0 +1,36 @@
+{
+  "calibrated_to_company_data": false,
+  "checks": {
+    "after_cutoff_activity_exists_and_is_excluded": true,
+    "all_identifiers_fictional": true,
+    "bootstrap_contains_observed_share": true,
+    "closing_stock_nonnegative": true,
+    "invalid_dates_are_excluded": true,
+    "outflows_keep_negative_sign": true,
+    "quantity_rollforward_exact": true,
+    "repeated_order_clusters_retained": true,
+    "return_identity_exception_visible": true,
+    "separate_units_preserved": true,
+    "service_months_only_july_august": true,
+    "source_line_collisions_visible": true
+  },
+  "code_sha256": {
+    "sql/06_synthetic_supply_service.sql": "f4208ef4a195d6126f0831677f293aab82d4b49ae754c444e1af5e5dd64224f0",
+    "src/supply_service_demo.py": "1e04877876d0c927c1dafa31517f20d7aa9d442cdea66f1a8a296f6eceaca29a"
+  },
+  "company_inputs_read": false,
+  "data_classification": "SYNTHETIC: independently invented demonstration, not company results",
+  "event_level_inputs_exported": false,
+  "files_sha256": {
+    "README.md": "dd313df5141a3cd9b818f9a17ba679b4cf05465095d9089cf8822a2348e9f4ee",
+    "current_reference_review.csv": "2fb64af701a14616aa4657c0f16faafa6dfad4371c976fcfd5b5225c60c311ec",
+    "eligibility_exclusions.csv": "68045e3b5cd457f2589c2bd8afdd2aa4651346a574d0e2210e33688c0a8eb164",
+    "inventory_by_unit.csv": "ce752dfa110597fac2a2f660d6a9d558d1486dd49739dc70e9947fc7fd0e6b4d",
+    "quantity_quality.csv": "abe50cafc857fadcf41f1049a17927a96512a39edd26c9dae96f814fa84edb7d",
+    "review.json": "8dc054e982a2cfe502ee2e70b039b7a567bdcddf9c7176e774f4d003800e6edf",
+    "service_lateness.svg": "4d67566a77c01ddc896c4eb4c3df0599daea4de9b84c81c08fd88b60e473337d",
+    "service_monthly.csv": "918b89b4d0c7fea57f5a03c408b189166aa5fd4cdb52d83a8fef3bd27db5f04d"
+  },
+  "seed": 723091,
+  "source": "src/supply_service_demo.py and sql/06_synthetic_supply_service.sql"
+}

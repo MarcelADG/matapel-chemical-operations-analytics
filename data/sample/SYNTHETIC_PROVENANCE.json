@@ -1,0 +1,34 @@
+{
+  "classification": "fully synthetic; generated independently of company records",
+  "generator": "src/generate_sample_data.py",
+  "generator_sha256": "9997ea41665a74d1bfb216fedc33aa47afa5ad9ab14bdd9da258f5b7a4e134a3",
+  "numpy_seed": 42,
+  "private_inputs_read": false,
+  "method": "fixed vocabularies and seeded distributions; no row resampling, identifier substitution or fitted private coefficients",
+  "workbooks": [
+    {
+      "path": "data/sample/RequestData_APAging.xlsx",
+      "sha256": "e9a042762e6815054bd44eb4a676cf888a82098e1af84a5f8dacedf75b05c04b"
+    },
+    {
+      "path": "data/sample/RequestData_ARAging.xlsx",
+      "sha256": "ff2944c27b3477d637db428c64ecbdb4e5ef3d11e2adcf50d0dd87a0624bb26f"
+    },
+    {
+      "path": "data/sample/RequestData_Inventory.xlsx",
+      "sha256": "8473fc8741a9a513f493ad86a9593a1b593230f4c97c6343b817cff737d7f9c9"
+    },
+    {
+      "path": "data/sample/RequestData_MasterProduct.xlsx",
+      "sha256": "bcb601856d8fc4441c58400e9d4feea73065d2bbcdffe536e74ce05fa1331375"
+    },
+    {
+      "path": "data/sample/RequestData_PurchHist.xlsx",
+      "sha256": "7926eaa5424f71cae0fcd871c6020df73599cbd037fe78d9f19c2f4438448f5d"
+    },
+    {
+      "path": "data/sample/RequestData_SalesHist.xlsx",
+      "sha256": "15205825826b249d4e7185c24c2b20614128e1cb1899274f146e5cea4efc1aee"
+    }
+  ]
+}

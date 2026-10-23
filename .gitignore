@@ -22,3 +22,26 @@ outputs/private/
 outputs/charts/
 outputs/excel/
 outputs/tables/
+
+# Integrated retained-company analyses contain private operational data
+analysis/
+docs/analysis-audits/
+
+# Real records, derived company findings and private local reproduction assets
+docs/private/
+docs/REPRODUCE_INTEGRATED_ANALYSIS.md
+reports/private/
+/*.xlsx
+/*.xls
+/*.xlsm
+/*.xlsb
+/*.csv
+/*.sqlite
+/*.sqlite-*
+/RequestData*
+
+# Private database and documentation artifacts
+*.icloud
+*.sqlite
+*.sqlite-*
+*.db

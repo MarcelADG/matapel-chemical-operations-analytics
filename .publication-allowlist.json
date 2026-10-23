@@ -1,0 +1,300 @@
+{
+  "files": {
+    ".githooks/pre-commit": "9e3e6cab19f6f872a4312c17d3ff5417eada5c124a7f1e6a27382f2d5ae76697",
+    ".githooks/pre-push": "529396539a348b49e8d52ffa964f312092d9669a37cb4fcd09d2b2414e78054a",
+    ".gitignore": "bf297d45b1f9c9b806bb74af158967344654ecd7f86639f78e4737125e31d3af",
+    "README.md": "b130de012545615e29117aae11166fd377870d459ca90fcb75b37b027089c97d",
+    "data/sample/RequestData_APAging.xlsx": "e9a042762e6815054bd44eb4a676cf888a82098e1af84a5f8dacedf75b05c04b",
+    "data/sample/RequestData_ARAging.xlsx": "ff2944c27b3477d637db428c64ecbdb4e5ef3d11e2adcf50d0dd87a0624bb26f",
+    "data/sample/RequestData_Inventory.xlsx": "8473fc8741a9a513f493ad86a9593a1b593230f4c97c6343b817cff737d7f9c9",
+    "data/sample/RequestData_MasterProduct.xlsx": "bcb601856d8fc4441c58400e9d4feea73065d2bbcdffe536e74ce05fa1331375",
+    "data/sample/RequestData_PurchHist.xlsx": "7926eaa5424f71cae0fcd871c6020df73599cbd037fe78d9f19c2f4438448f5d",
+    "data/sample/RequestData_SalesHist.xlsx": "15205825826b249d4e7185c24c2b20614128e1cb1899274f146e5cea4efc1aee",
+    "data/sample/SYNTHETIC_PROVENANCE.json": "9479a0ca6da34b67535f18569454e58fa3aa6896504aab8b750658853a978282",
+    "docs/PUBLISHING_SYNTHETIC_ONLY.md": "5597c2a3f7cdab11d12955f0aeca0cdf75dced7762a1fc63b887a0bf71b4f700",
+    "docs/SUPPLY_SERVICE_METHODS.md": "feee8a25459a0f15503bba7b1d2f629145f886c0ab3382147d7d243c05987cd2",
+    "docs/SYNTHETIC_DATA.md": "deeed27d6fe5adc91d0d564f0dd6d4705c071c980c3a959427901d1a336bd8d2",
+    "docs/images/ap_aging_buckets.png": "ef548670472efd3df7c33a89af029aee57b465d9bc7f80ba2b88c613001ad40d",
+    "docs/images/ar_aging_buckets.png": "f26b2e40abe69fec46a011ca45b51747d6ebaedba5ca715228cc3ccb01b4297b",
+    "docs/images/forecast_product_lines.png": "b58b412917df2592682677918b4c3b124f3a224253dbf90dc3397a99de9b2173",
+    "docs/images/inventory_value_by_product_line.png": "e2812de07f22fa5bb72b7eefb881aa429977ac1ba6030d046ec06cfffc3af62f",
+    "docs/images/monthly_sales_trend.png": "d5b26e9fff8d9a6bf345937bd2c2f421330f94f19846dc7d29ada6a64aa9c315",
+    "docs/images/top_product_lines_revenue.png": "e82893c5bb2c53116b0deae551ee1fa3e757592d1fc075d848f2ab9822b1fa49",
+    "docs/images/working_capital_kpis.png": "935ef21ad652c6b051504bde7d1432255c90e0bccad8777522a0a3c615b379fd",
+    "notebooks/01_data_quality_review.ipynb": "203c0b512e247e78d70746aec9096396b3fc22d25474c4322b928a6218de105c",
+    "notebooks/02_sales_inventory_analysis.ipynb": "481f6e73c8afd4c33f377f55e1587e205fb2c3976cc9ffc7772a89e657cc1e00",
+    "notebooks/03_demand_forecasting.ipynb": "ad824e5ea54c6580c7ab332c53c7e4fa2e9ee9cc2b6a3675a72cb631a6057b0b",
+    "notebooks/04_working_capital_analysis.ipynb": "76f23efb1b4cb8ee31bb0662189a2bf30d2214dd5f95e15569c17ab7c373b8f4",
+    "outputs/sample/charts/ap_aging_buckets.png": "ef548670472efd3df7c33a89af029aee57b465d9bc7f80ba2b88c613001ad40d",
+    "outputs/sample/charts/ar_aging_buckets.png": "f26b2e40abe69fec46a011ca45b51747d6ebaedba5ca715228cc3ccb01b4297b",
+    "outputs/sample/charts/forecast_product_lines.png": "b58b412917df2592682677918b4c3b124f3a224253dbf90dc3397a99de9b2173",
+    "outputs/sample/charts/inventory_value_by_product_line.png": "e2812de07f22fa5bb72b7eefb881aa429977ac1ba6030d046ec06cfffc3af62f",
+    "outputs/sample/charts/monthly_sales_trend.png": "d5b26e9fff8d9a6bf345937bd2c2f421330f94f19846dc7d29ada6a64aa9c315",
+    "outputs/sample/charts/top_product_lines_revenue.png": "e82893c5bb2c53116b0deae551ee1fa3e757592d1fc075d848f2ab9822b1fa49",
+    "outputs/sample/charts/working_capital_kpis.png": "935ef21ad652c6b051504bde7d1432255c90e0bccad8777522a0a3c615b379fd",
+    "outputs/sample/excel/matapel_dashboard_tables.xlsx": "78026b7e293d9e85e7657f3ddc7ee3d437f81101e507a74d2cef6c6e40dfdbb1",
+    "outputs/sample/processed/dim_product.csv": "7d4413cd6469806976eb9c7a439d6f02edb3c7db63defc8904c079b107e57a62",
+    "outputs/sample/processed/fact_ap.csv": "2e331661428c50693d5c4a111fa274285a13891586c8ea094b7f316fd44f976a",
+    "outputs/sample/processed/fact_ar.csv": "f8a51a0c55d4aae5b7ca9bd7f826a425ad0c27710d46fd1bb45710dbdabe1ad0",
+    "outputs/sample/processed/fact_inventory.csv": "1cf73046a3a7b39d70a681394f7cc8fdd09b6029d5a40c608d8b0fe599be964d",
+    "outputs/sample/processed/fact_purchases.csv": "47e73a07db33749584624d8c1afe66ce7ed1cd758908c2212d51fc7ca519b347",
+    "outputs/sample/processed/fact_sales.csv": "1d570c44dfca99f0d9aee29cda4c780f2c407468a1e6dbb4b0a068d57cf8bf21",
+    "outputs/sample/supply_service/README.md": "dd313df5141a3cd9b818f9a17ba679b4cf05465095d9089cf8822a2348e9f4ee",
+    "outputs/sample/supply_service/current_reference_review.csv": "2fb64af701a14616aa4657c0f16faafa6dfad4371c976fcfd5b5225c60c311ec",
+    "outputs/sample/supply_service/eligibility_exclusions.csv": "68045e3b5cd457f2589c2bd8afdd2aa4651346a574d0e2210e33688c0a8eb164",
+    "outputs/sample/supply_service/inventory_by_unit.csv": "ce752dfa110597fac2a2f660d6a9d558d1486dd49739dc70e9947fc7fd0e6b4d",
+    "outputs/sample/supply_service/provenance.json": "a8570e4c74b9e0b0a8c906ca23872145bb2c272a3c662cbac34719a0145630dc",
+    "outputs/sample/supply_service/quantity_quality.csv": "abe50cafc857fadcf41f1049a17927a96512a39edd26c9dae96f814fa84edb7d",
+    "outputs/sample/supply_service/review.json": "8dc054e982a2cfe502ee2e70b039b7a567bdcddf9c7176e774f4d003800e6edf",
+    "outputs/sample/supply_service/service_lateness.svg": "4d67566a77c01ddc896c4eb4c3df0599daea4de9b84c81c08fd88b60e473337d",
+    "outputs/sample/supply_service/service_monthly.csv": "918b89b4d0c7fea57f5a03c408b189166aa5fd4cdb52d83a8fef3bd27db5f04d",
+    "outputs/sample/tables/ap_aging_summary.csv": "c8ac9008eaf398c8e7ebc6a9c505b2774b9d8e7a1bab79b0eb8fabddbabb6da7",
+    "outputs/sample/tables/ar_aging_summary.csv": "8b1f8ba27823eb5364553ef57c5a7e1356e533896aefc1ce283028946d93d84d",
+    "outputs/sample/tables/customer_performance.csv": "1458840ec081fee8c0ccf78b5eb5ae6bcee8bad9c66c5a4cd4cd5c5735d84ea6",
+    "outputs/sample/tables/data_quality_report.csv": "627120c4f385ed4c66b31a115e14c34f324f49f18465ebe06c1d2e066dcbe69b",
+    "outputs/sample/tables/forecast_results.csv": "591763f846aa908144dc8de5d5e5db5d1de41a3aa0d5de6e2bba0f315c9c5d96",
+    "outputs/sample/tables/late_delivery_categories.csv": "8a27e232c79212561a483f768798fa57b92eb5a1338b59f8ad60a9ef59f2798e",
+    "outputs/sample/tables/monthly_inventory_summary.csv": "2ac5c4542012ce6c00959b7c41828f189d740a1c0f20352a5d5fc91ac63f3999",
+    "outputs/sample/tables/monthly_product_sales.csv": "7bf4304850b43a29d1127e58fc14c7417e2c3776911299fd517ca8e3c1218616",
+    "outputs/sample/tables/monthly_sales_summary.csv": "a601e1a51038a619620679df6445d5c828c0119df0274fb8abc68a735a7a5878",
+    "outputs/sample/tables/product_line_performance.csv": "33eb42ed6cf6dd58811500f1f0502f287042f5141f65287ceb3304ca274eff43",
+    "outputs/sample/tables/purchase_price_trend.csv": "cf1552fc34333d0e3104ec7f77d8f6be76b9fea3756b21ace1b623a1713528c7",
+    "outputs/sample/tables/purchase_supplier_product.csv": "58bd187070f29a9974f2f803e05930edd104365cf2c4d70ddbc1f0a8d538a709",
+    "outputs/sample/tables/top_customers_overdue_ar.csv": "d1b854be16dc54233c83299b572913f05674e8f2c5ae5f600782550862085e69",
+    "outputs/sample/tables/top_suppliers_overdue_ap.csv": "c554c0f3be193bc0e8834cb64f7014253bdb4ce6494a25123232394de6eafbfb",
+    "outputs/sample/tables/working_capital_kpis.csv": "a2e863d795fdd2053692dfd18a90090ddc446f8568bf45627ce041a8404ec146",
+    "reports/executive_summary.md": "82a87a0b206f227abf6a0f2e491318521606d16ed4d42a0370cb423dc0f354c8",
+    "requirements.txt": "41427af24dcc27a777510399dabf256ffbea5bb8a8b49f276501e166c0d35947",
+    "scripts/check_publication_safety.py": "b828f27d2901aba3263cd65a5972d7a1fd436092abc5a9f2adbfe01316990f44",
+    "sql/01_clean_sales.sql": "a7656e28e3c3d218392de1a7796b64ff9cdd48190818289ebd6881ba12be6f27",
+    "sql/02_product_line_monthly_sales.sql": "7715a8e5b3d1ea4d695202300d1cd87639f38e12183b381a30727f5fc03da600",
+    "sql/03_ar_ap_aging_kpis.sql": "51798fbcb7d8ed6106856e150c9f26d86bedfa1f63254afa486b9d34589ceecd",
+    "sql/04_inventory_working_capital.sql": "c6af4ea03dcfa2dc8f5966801e371811ffd56cfb8cc91fd4095cddeeffbaf2bf",
+    "sql/05_purchase_analytics.sql": "545b5e4336d0f0f8ad776f6169d0a61c789439fff7f639147bac316375937d38",
+    "sql/06_synthetic_supply_service.sql": "f4208ef4a195d6126f0831677f293aab82d4b49ae754c444e1af5e5dd64224f0",
+    "src/__init__.py": "43f8d003477eda200252cc5083644d91a84353530bfe1b637b754891721c3974",
+    "src/build_features.py": "fe480487e64483c0d8aa9ebbe0be214fc8cc0eae772940f8e0fd0b128c93ab32",
+    "src/clean_data.py": "ded0ccb22eab788a80120fcbf2fc3a366591bd11bc87dfa67ed3c0043b019430",
+    "src/config.py": "b1655295b28def87c7f7ef36a9639b59c25e775ce7a09715b40934f969e27d76",
+    "src/export_outputs.py": "c00db0624e31c4490f1fdeeb397ccdf1d240ac7664af1446688b0652858c6a3f",
+    "src/forecasting.py": "6ad7fe8783b56b6f6a49dcc2460ccb70a201939b0467cb3fe60a3131289a235c",
+    "src/generate_sample_data.py": "9997ea41665a74d1bfb216fedc33aa47afa5ad9ab14bdd9da258f5b7a4e134a3",
+    "src/kpis.py": "84703b3ea1c8a06211b6251b36a1afe222dbc064e2638e8231b0ca2f2eb6a39e",
+    "src/load_data.py": "80a72668b1e342b68d9dac692e9e40e72a362cf0198ead6987c37e97ccdb205b",
+    "src/supply_service_demo.py": "1e04877876d0c927c1dafa31517f20d7aa9d442cdea66f1a8a296f6eceaca29a",
+    "src/utils.py": "78431576a7d56663e1f6f439b1f24996547b9025b33d1097059b4b8418732976",
+    "src/validation.py": "2ef5bcaa91f543badd567588a53ace17a1a1279c9ac1a5e6e1eff39452b1c49a",
+    "tests/test_supply_service_demo.py": "cc6079978168e8c07a9c91309bf4e54af24c4ddc497c79c19403c55e225572a2"
+  },
+  "historical_versions": {
+    ".gitignore": [
+      "b080e42c21a551dc00095caac1205fd26ff459e619515dc8c56a4d60c41a84dc"
+    ],
+    "README.md": [
+      "d7a0eeb5878dec5fd9769f88b071b45361c6e03d5a5dcba8d910dd377671f4c7"
+    ],
+    "data/sample/RequestData_APAging.xlsx": [
+      "e9a042762e6815054bd44eb4a676cf888a82098e1af84a5f8dacedf75b05c04b"
+    ],
+    "data/sample/RequestData_ARAging.xlsx": [
+      "ff2944c27b3477d637db428c64ecbdb4e5ef3d11e2adcf50d0dd87a0624bb26f"
+    ],
+    "data/sample/RequestData_Inventory.xlsx": [
+      "8473fc8741a9a513f493ad86a9593a1b593230f4c97c6343b817cff737d7f9c9"
+    ],
+    "data/sample/RequestData_MasterProduct.xlsx": [
+      "bcb601856d8fc4441c58400e9d4feea73065d2bbcdffe536e74ce05fa1331375"
+    ],
+    "data/sample/RequestData_PurchHist.xlsx": [
+      "7926eaa5424f71cae0fcd871c6020df73599cbd037fe78d9f19c2f4438448f5d"
+    ],
+    "data/sample/RequestData_SalesHist.xlsx": [
+      "15205825826b249d4e7185c24c2b20614128e1cb1899274f146e5cea4efc1aee"
+    ],
+    "docs/images/ap_aging_buckets.png": [
+      "ef548670472efd3df7c33a89af029aee57b465d9bc7f80ba2b88c613001ad40d"
+    ],
+    "docs/images/ar_aging_buckets.png": [
+      "f26b2e40abe69fec46a011ca45b51747d6ebaedba5ca715228cc3ccb01b4297b"
+    ],
+    "docs/images/forecast_product_lines.png": [
+      "b58b412917df2592682677918b4c3b124f3a224253dbf90dc3397a99de9b2173"
+    ],
+    "docs/images/inventory_value_by_product_line.png": [
+      "e2812de07f22fa5bb72b7eefb881aa429977ac1ba6030d046ec06cfffc3af62f"
+    ],
+    "docs/images/monthly_sales_trend.png": [
+      "d5b26e9fff8d9a6bf345937bd2c2f421330f94f19846dc7d29ada6a64aa9c315"
+    ],
+    "docs/images/top_product_lines_revenue.png": [
+      "e82893c5bb2c53116b0deae551ee1fa3e757592d1fc075d848f2ab9822b1fa49"
+    ],
+    "docs/images/working_capital_kpis.png": [
+      "935ef21ad652c6b051504bde7d1432255c90e0bccad8777522a0a3c615b379fd"
+    ],
+    "notebooks/01_data_quality_review.ipynb": [
+      "203c0b512e247e78d70746aec9096396b3fc22d25474c4322b928a6218de105c",
+      "ba4c28b278f76ad0867d2bc9504cd180219be3fc7fdcca67b78d6ebf3a9e54f6"
+    ],
+    "notebooks/02_sales_inventory_analysis.ipynb": [
+      "481f6e73c8afd4c33f377f55e1587e205fb2c3976cc9ffc7772a89e657cc1e00",
+      "771439b5ea11334444ad6f8c65c92519bebadb34ca7b2c362214c7fac149c45c"
+    ],
+    "notebooks/03_demand_forecasting.ipynb": [
+      "5062cd556368ca62efe2d58a8b0261368d5d5ded0273fbc6b30a39c7c69821bf",
+      "ad824e5ea54c6580c7ab332c53c7e4fa2e9ee9cc2b6a3675a72cb631a6057b0b"
+    ],
+    "notebooks/04_working_capital_analysis.ipynb": [
+      "390e7eaf75d8ae7c7c32d82b252e0f162673f5af5881dd06141c9347b578bf17",
+      "76f23efb1b4cb8ee31bb0662189a2bf30d2214dd5f95e15569c17ab7c373b8f4"
+    ],
+    "outputs/sample/charts/ap_aging_buckets.png": [
+      "ef548670472efd3df7c33a89af029aee57b465d9bc7f80ba2b88c613001ad40d"
+    ],
+    "outputs/sample/charts/ar_aging_buckets.png": [
+      "f26b2e40abe69fec46a011ca45b51747d6ebaedba5ca715228cc3ccb01b4297b"
+    ],
+    "outputs/sample/charts/forecast_product_lines.png": [
+      "b58b412917df2592682677918b4c3b124f3a224253dbf90dc3397a99de9b2173"
+    ],
+    "outputs/sample/charts/inventory_value_by_product_line.png": [
+      "e2812de07f22fa5bb72b7eefb881aa429977ac1ba6030d046ec06cfffc3af62f"
+    ],
+    "outputs/sample/charts/monthly_sales_trend.png": [
+      "d5b26e9fff8d9a6bf345937bd2c2f421330f94f19846dc7d29ada6a64aa9c315"
+    ],
+    "outputs/sample/charts/top_product_lines_revenue.png": [
+      "e82893c5bb2c53116b0deae551ee1fa3e757592d1fc075d848f2ab9822b1fa49"
+    ],
+    "outputs/sample/charts/working_capital_kpis.png": [
+      "935ef21ad652c6b051504bde7d1432255c90e0bccad8777522a0a3c615b379fd"
+    ],
+    "outputs/sample/excel/matapel_dashboard_tables.xlsx": [
+      "78026b7e293d9e85e7657f3ddc7ee3d437f81101e507a74d2cef6c6e40dfdbb1"
+    ],
+    "outputs/sample/processed/dim_product.csv": [
+      "7d4413cd6469806976eb9c7a439d6f02edb3c7db63defc8904c079b107e57a62"
+    ],
+    "outputs/sample/processed/fact_ap.csv": [
+      "2e331661428c50693d5c4a111fa274285a13891586c8ea094b7f316fd44f976a"
+    ],
+    "outputs/sample/processed/fact_ar.csv": [
+      "f8a51a0c55d4aae5b7ca9bd7f826a425ad0c27710d46fd1bb45710dbdabe1ad0"
+    ],
+    "outputs/sample/processed/fact_inventory.csv": [
+      "1cf73046a3a7b39d70a681394f7cc8fdd09b6029d5a40c608d8b0fe599be964d"
+    ],
+    "outputs/sample/processed/fact_purchases.csv": [
+      "47e73a07db33749584624d8c1afe66ce7ed1cd758908c2212d51fc7ca519b347"
+    ],
+    "outputs/sample/processed/fact_sales.csv": [
+      "1d570c44dfca99f0d9aee29cda4c780f2c407468a1e6dbb4b0a068d57cf8bf21"
+    ],
+    "outputs/sample/tables/ap_aging_summary.csv": [
+      "c8ac9008eaf398c8e7ebc6a9c505b2774b9d8e7a1bab79b0eb8fabddbabb6da7"
+    ],
+    "outputs/sample/tables/ar_aging_summary.csv": [
+      "8b1f8ba27823eb5364553ef57c5a7e1356e533896aefc1ce283028946d93d84d"
+    ],
+    "outputs/sample/tables/customer_performance.csv": [
+      "1458840ec081fee8c0ccf78b5eb5ae6bcee8bad9c66c5a4cd4cd5c5735d84ea6"
+    ],
+    "outputs/sample/tables/data_quality_report.csv": [
+      "627120c4f385ed4c66b31a115e14c34f324f49f18465ebe06c1d2e066dcbe69b"
+    ],
+    "outputs/sample/tables/forecast_results.csv": [
+      "591763f846aa908144dc8de5d5e5db5d1de41a3aa0d5de6e2bba0f315c9c5d96"
+    ],
+    "outputs/sample/tables/late_delivery_categories.csv": [
+      "8a27e232c79212561a483f768798fa57b92eb5a1338b59f8ad60a9ef59f2798e"
+    ],
+    "outputs/sample/tables/monthly_inventory_summary.csv": [
+      "2ac5c4542012ce6c00959b7c41828f189d740a1c0f20352a5d5fc91ac63f3999"
+    ],
+    "outputs/sample/tables/monthly_product_sales.csv": [
+      "7bf4304850b43a29d1127e58fc14c7417e2c3776911299fd517ca8e3c1218616"
+    ],
+    "outputs/sample/tables/monthly_sales_summary.csv": [
+      "a601e1a51038a619620679df6445d5c828c0119df0274fb8abc68a735a7a5878"
+    ],
+    "outputs/sample/tables/product_line_performance.csv": [
+      "33eb42ed6cf6dd58811500f1f0502f287042f5141f65287ceb3304ca274eff43"
+    ],
+    "outputs/sample/tables/purchase_price_trend.csv": [
+      "cf1552fc34333d0e3104ec7f77d8f6be76b9fea3756b21ace1b623a1713528c7"
+    ],
+    "outputs/sample/tables/purchase_supplier_product.csv": [
+      "58bd187070f29a9974f2f803e05930edd104365cf2c4d70ddbc1f0a8d538a709"
+    ],
+    "outputs/sample/tables/top_customers_overdue_ar.csv": [
+      "d1b854be16dc54233c83299b572913f05674e8f2c5ae5f600782550862085e69"
+    ],
+    "outputs/sample/tables/top_suppliers_overdue_ap.csv": [
+      "c554c0f3be193bc0e8834cb64f7014253bdb4ce6494a25123232394de6eafbfb"
+    ],
+    "outputs/sample/tables/working_capital_kpis.csv": [
+      "a2e863d795fdd2053692dfd18a90090ddc446f8568bf45627ce041a8404ec146"
+    ],
+    "reports/executive_summary.md": [
+      "82a87a0b206f227abf6a0f2e491318521606d16ed4d42a0370cb423dc0f354c8"
+    ],
+    "requirements.txt": [
+      "aa1d102f2038b68c0d65587650a446234af615f2433f8bc0bc2679fdb255a6c2"
+    ],
+    "sql/01_clean_sales.sql": [
+      "a7656e28e3c3d218392de1a7796b64ff9cdd48190818289ebd6881ba12be6f27"
+    ],
+    "sql/02_product_line_monthly_sales.sql": [
+      "7715a8e5b3d1ea4d695202300d1cd87639f38e12183b381a30727f5fc03da600"
+    ],
+    "sql/03_ar_ap_aging_kpis.sql": [
+      "51798fbcb7d8ed6106856e150c9f26d86bedfa1f63254afa486b9d34589ceecd"
+    ],
+    "sql/04_inventory_working_capital.sql": [
+      "c6af4ea03dcfa2dc8f5966801e371811ffd56cfb8cc91fd4095cddeeffbaf2bf"
+    ],
+    "sql/05_purchase_analytics.sql": [
+      "545b5e4336d0f0f8ad776f6169d0a61c789439fff7f639147bac316375937d38"
+    ],
+    "src/__init__.py": [
+      "43f8d003477eda200252cc5083644d91a84353530bfe1b637b754891721c3974"
+    ],
+    "src/build_features.py": [
+      "fe480487e64483c0d8aa9ebbe0be214fc8cc0eae772940f8e0fd0b128c93ab32"
+    ],
+    "src/clean_data.py": [
+      "ded0ccb22eab788a80120fcbf2fc3a366591bd11bc87dfa67ed3c0043b019430"
+    ],
+    "src/config.py": [
+      "b1655295b28def87c7f7ef36a9639b59c25e775ce7a09715b40934f969e27d76"
+    ],
+    "src/export_outputs.py": [
+      "29005170e9bad8dec21c892e4a40e0e30a536306eedaa6d887ab60b54a8ac0e6"
+    ],
+    "src/forecasting.py": [
+      "6ad7fe8783b56b6f6a49dcc2460ccb70a201939b0467cb3fe60a3131289a235c"
+    ],
+    "src/generate_sample_data.py": [
+      "08330d7a33e344b606c689ca0006c5850d9d064ccd5dc6b7c2f1604931a67c3d"
+    ],
+    "src/kpis.py": [
+      "84703b3ea1c8a06211b6251b36a1afe222dbc064e2638e8231b0ca2f2eb6a39e"
+    ],
+    "src/load_data.py": [
+      "80a72668b1e342b68d9dac692e9e40e72a362cf0198ead6987c37e97ccdb205b"
+    ],
+    "src/utils.py": [
+      "78431576a7d56663e1f6f439b1f24996547b9025b33d1097059b4b8418732976"
+    ],
+    "src/validation.py": [
+      "2ef5bcaa91f543badd567588a53ace17a1a1279c9ac1a5e6e1eff39452b1c49a"
+    ]
+  },
+  "policy": "Independent synthetic examples and method-only public code/docs; confidential sources and true derived results excluded.",
+  "reviewed_history_trees": [
+    "3ae47c92168263594acc526033397c181e029e29",
+    "5798a87b14cf7a48dd54fab6187df1e781f1bd00"
+  ],
+  "reviewed_on": "2026-10-22",
+  "version": 2
+}

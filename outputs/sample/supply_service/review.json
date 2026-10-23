@@ -1,0 +1,128 @@
+{
+  "bootstrap_draws": 1200,
+  "current_reference_review": [
+    {
+      "review_status": "at_or_above_current_reference",
+      "sku_unit_rows": 11
+    },
+    {
+      "review_status": "below_current_reference",
+      "sku_unit_rows": 7
+    }
+  ],
+  "data_classification": "SYNTHETIC: independently invented demonstration, not company results",
+  "eligibility_exclusions": [
+    {
+      "export_rows": 6,
+      "flow": "Customer delivery",
+      "reason": "after_cutoff"
+    },
+    {
+      "export_rows": 6,
+      "flow": "Supplier receipt",
+      "reason": "after_cutoff"
+    },
+    {
+      "export_rows": 1,
+      "flow": "Supplier receipt",
+      "reason": "missing_or_invalid_date"
+    },
+    {
+      "export_rows": 1,
+      "flow": "Supplier receipt",
+      "reason": "receipt_before_order"
+    }
+  ],
+  "interpretation": "Recorded-promise timing among fulfilled export rows. No official stock balance, fill rate, lost sales, net profit or causal improvement claim.",
+  "inventory_by_unit": [
+    {
+      "closing_quantity": 2094.0,
+      "issued_signed_quantity": -8499.0,
+      "opening_quantity": 2540.0,
+      "received_quantity": 8053.0,
+      "uom": "KG"
+    },
+    {
+      "closing_quantity": 2667.0,
+      "issued_signed_quantity": -7246.0,
+      "opening_quantity": 2182.0,
+      "received_quantity": 7731.0,
+      "uom": "LITRE"
+    },
+    {
+      "closing_quantity": 3231.0,
+      "issued_signed_quantity": -6936.0,
+      "opening_quantity": 2056.0,
+      "received_quantity": 8111.0,
+      "uom": "PIECE"
+    }
+  ],
+  "quantity_quality": [
+    {
+      "flow": "Customer delivery",
+      "return_identity_exception_rows": 0,
+      "source_rows": 166
+    },
+    {
+      "flow": "Supplier receipt",
+      "return_identity_exception_rows": 1,
+      "source_rows": 90
+    }
+  ],
+  "scenario_cutoff": "2024-08-31",
+  "service_monthly": [
+    {
+      "eligible_export_rows": 80,
+      "flow": "Customer delivery",
+      "late_export_rows": 29,
+      "late_share": 0.3625,
+      "lead_days_median": 8.0,
+      "lead_days_p90": 14.0,
+      "month": "2024-07",
+      "order_cluster_bootstrap_high": 0.475,
+      "order_cluster_bootstrap_low": 0.25,
+      "order_clusters": 40
+    },
+    {
+      "eligible_export_rows": 80,
+      "flow": "Customer delivery",
+      "late_export_rows": 29,
+      "late_share": 0.3625,
+      "lead_days_median": 8.5,
+      "lead_days_p90": 14.0,
+      "month": "2024-08",
+      "order_cluster_bootstrap_high": 0.45,
+      "order_cluster_bootstrap_low": 0.275,
+      "order_clusters": 40
+    },
+    {
+      "eligible_export_rows": 42,
+      "flow": "Supplier receipt",
+      "late_export_rows": 15,
+      "late_share": 0.35714285714285715,
+      "lead_days_median": 19.5,
+      "lead_days_p90": 32.0,
+      "month": "2024-07",
+      "order_cluster_bootstrap_high": 0.525,
+      "order_cluster_bootstrap_low": 0.1956521739130435,
+      "order_clusters": 20
+    },
+    {
+      "eligible_export_rows": 40,
+      "flow": "Supplier receipt",
+      "late_export_rows": 15,
+      "late_share": 0.375,
+      "lead_days_median": 17.5,
+      "lead_days_p90": 33.2,
+      "month": "2024-08",
+      "order_cluster_bootstrap_high": 0.475,
+      "order_cluster_bootstrap_low": 0.275,
+      "order_clusters": 20
+    }
+  ],
+  "service_window_start": "2024-07-01",
+  "source_line_grain_review": {
+    "collision_groups": 1,
+    "rows_in_collision_groups": 5
+  }
+}
